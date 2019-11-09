@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>{{ block "title" . }}
+{{ .Site.Title }}
+{{ end }}</title>
+<style>body{margin:0;width:100%;}h1{margin:0;}.header{height:auto;padding:40px 0 64px;width:100%;}.header .title{font-size:24px;line-height:1;margin:0;padding:0 16px;}.link{color:#000000;text-decoration:none;}.container{width:100%;}.article{padding:0 16px;}</style>
+{{ $style := resources.Get "sass/main.scss" | toCSS | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $style.Permalink }}">
+</head>
+<body>
+<header class="header">
+<h1 class="title"><a class="link" href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
+</header>
+<main class="container">
+{{ block "main" . }}
+{{ end }}
+</main>
+{{ block "footer" . }}
+{{ end }}
+</body>
+</html>
