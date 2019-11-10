@@ -5,7 +5,7 @@
 <title>{{ block "title" . }}
 {{ .Site.Title }}
 {{ end }}</title>
-<style>body{margin:0;width:100%;}h1{margin:0;}.header{height:auto;padding:40px 0 64px;width:100%;}.header .title{font-size:24px;line-height:1;margin:0;padding:0 16px;}.link{color:#000000;text-decoration:none;}.container{width:100%;}.article{padding:0 16px;}</style>
+<style>*{box-sizing:border-box;}html,body{height: 100%;margin:0;width:100%;}h1,h2{margin:0;}.header{height:auto;margin:0 auto;max-width:992px;padding:40px 16px;width:100%;}.header .title{font-size:24px;font-weight:normal;line-height:1.5;margin:0 auto;}.header .link{color:#000000;text-decoration:none;}.container{padding:24px 16px 32px;width:100%;}.footer{margin:0 auto;max-width: 996px;padding:24px 16px;}.footer .copyright{color:#4d4d4d;font-size:14px;text-align:right;}</style>
 {{ $style := resources.Get "sass/main.scss" | toCSS | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $style.Permalink }}">
 </head>
@@ -19,5 +19,8 @@
 </main>
 {{ block "footer" . }}
 {{ end }}
+<footer class="footer">
+  <p class="copyright">&copy;2019 hiroshifujita.com</p>
+</footer>
 </body>
 </html>

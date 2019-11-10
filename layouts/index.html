@@ -1,7 +1,11 @@
 {{ define "main" }}
-<article class="article">
+<div class="article">
+  {{ $posts := (where .Site.Pages "Params.series" "==" "blog") }}
+  {{ $postCount := len $posts }}
+  {{ if gt $postCount 0 }}
   <ul class="list archives">
-    {{ range .Paginator.Pages }}
+    {{ $pager := .Paginate (where .Site.Pages "Params.series" "blog") 10 }}
+    {{ range $pager.Pages }}
     <li class="list__item list-posts">
       <div class="item__thumbnail"><a class="link" href="{{.Permalink}}">No Image</a></div>
       <div class="item__content">
@@ -10,7 +14,9 @@
       </div>
     </li>
     {{ end }}
-    {{ template "_internal/pagination.html" . }}
   </ul>
-</article>
+  {{ else }}
+  <div>Comming Soon...</div>
+  {{ end }}
+</div>
 {{ end }}
