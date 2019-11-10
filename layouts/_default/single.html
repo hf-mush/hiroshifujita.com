@@ -3,9 +3,10 @@
 {{ end }}
 {{ define "main" }}
 <article class="article">
-  <header>
-    <h1>{{ .Title }}</h1>
+  <header class="article__header">
+    <h1 class="title">{{ .Title }}</h1>
+    <div class="date">{{ .PublishDate.Format "2006/01/02 15:04:05" }}</div>
   </header>
-  <div>{{ .Content }}</div>
+  <div class="content">{{ .Content }}</div>
 </article>
 {{ end }}
