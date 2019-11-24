@@ -2,6 +2,6 @@
 
 ## Build
 
-``` bash
-$ hugo --config config.prod.toml -D
+``` bash:bash
+$ hugo --config config.prod.toml --minify -D
 ```
