@@ -44,13 +44,17 @@
     background-size: cover;
 
     .link {
-      color: #9f9f9f;
+      color: rgba(0, 0, 0, 0);
       display: block;
       height: 100%;
       width: 100%;
 
       &:hover {
         text-decoration: none;
+      }
+
+      &.noimage {
+        color: #9f9f9f;
       }
     }
   }
