@@ -1,27 +1,104 @@
 <!DOCTYPE html>
 <html lang="ja">
+
 <head>
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<meta charset="utf-8">
-<meta name="author" content="hf-mush">
-<meta name="description" content="学びを配信するブログ">
-<title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
-<style>*{box-sizing:border-box;}html,body{font-family:hiragino kaku gothic pron,meiryo,sans-serif,system-ui;height:100%;margin:0;width:100%;}h1,h2{margin:0;}.header{height:auto;margin:0 auto;max-width:992px;padding:40px 24px;width:100%;}.header .title{font-size:24px;font-weight:normal;line-height:1.5;margin:0 auto;}.header .link{color:#000000;text-decoration:none;}.container{margin:0 auto;max-width:992px;padding:24px;width:100%;}.footer{margin:0 auto;max-width:996px;padding:24px;}.footer .cr{font-size:14px;text-align:right;}</style>
-{{ $style := resources.Get "sass/main.scss" | toCSS | minify | fingerprint }}
-<link rel="stylesheet" href="{{ $style.Permalink }}">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta charset="utf-8">
+  <meta name="author" content="hf-mush">
+  <meta name="description" content="学びを配信するブログ">
+  <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      font-family: hiragino kaku gothic pron, meiryo, sans-serif, system-ui;
+      height: 100%;
+      margin: 0;
+      width: 100%;
+    }
+
+    h1,
+    h2 {
+      margin: 0;
+    }
+
+    .header {
+      height: auto;
+      margin: 0 auto;
+      max-width: 992px;
+      padding: 40px 24px;
+      width: 100%;
+    }
+
+    .header .title {
+      font-size: 24px;
+      font-weight: normal;
+      line-height: 1.5;
+      margin: 0 auto;
+    }
+
+    .header .link {
+      color: #000000;
+      text-decoration: none;
+    }
+
+    .container {
+      margin: 0 auto;
+      max-width: 992px;
+      padding: 24px;
+      width: 100%;
+    }
+
+    .footer {
+      margin: 0 auto;
+      max-width: 996px;
+      padding: 24px;
+    }
+
+    .footer .cr {
+      font-size: 14px;
+      text-align: right;
+    }
+  </style>
+  {{ $style := resources.Get "sass/main.scss" | toCSS | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}">
+  <link rel="shortcut icon" href="/favicon/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/favicon/favicon.ico" type="image/x-icon">
+  <link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/favicon/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/favicon/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/favicon/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/favicon/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/favicon/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/favicon/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/favicon/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/favicon/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/favicon/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/favicon/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/favicon/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
 </head>
+
 <body>
-<header class="header">
-<h1 class="title"><a class="link" href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
-</header>
-<main class="container">
-{{ block "main" . }}
-{{ end }}
-</main>
-{{ block "footer" . }}
-{{ end }}
-<footer class="footer">
-  <p class="cr">&copy;2019 hiroshifujita.com</p>
-</footer>
+  <header class="header">
+    <h1 class="title"><a class="link" href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
+  </header>
+  <main class="container">
+    {{ block "main" . }}
+    {{ end }}
+  </main>
+  {{ block "footer" . }}
+  {{ end }}
+  <footer class="footer">
+    <p class="cr">&copy;2019 hiroshifujita.com</p>
+  </footer>
 </body>
+
 </html>
