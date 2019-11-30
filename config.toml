@@ -2,3 +2,6 @@ baseURL = "http://localhost:1313/"
 languageCode = "ja-jp"
 title = "HIROSHI FUJITA"
 paginate=5
+
+[params]
+  analyticsCode = "U-XXXXXX-01"
