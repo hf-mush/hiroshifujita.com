@@ -80,3 +80,38 @@
     flex: 1 1 auto;
   }
 }
+
+.pagination {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  list-style-position: outside;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+  .page-item {
+    flex: 0 0 auto;
+    font-size: 16px;
+    min-width: 16px;
+    position: relative;
+    text-align: center;
+
+    .page-link {
+      text-decoration: none;
+      color: rgba(0, 0, 238, 1);
+    }
+
+    &.active {
+      .page-link {
+        color: rgba(238, 0, 0, 1);
+      }
+    }
+
+    &.disabled {
+      .page-link {
+        color: #494949;
+      }
+    }
+  }
+}
