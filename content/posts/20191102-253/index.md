@@ -5,34 +5,18 @@ draft: false
 series: "blog"
 thumbnail: "/posts/20191102-253/20191102_01.jpg"
 ---
-<!-- wp:paragraph -->
-<p>Wordpress を使ってブログを書いておりますが、<a href="https://gohugo.io/">hugo</a> に移行しようと考えてます。</p>
-<!-- /wp:paragraph -->
+Wordpress を使ってブログを書いておりますが、[hugo](https://gohugo.io/)に移行しようと考えてます。  
 
-<!-- wp:paragraph -->
-<p>「golang のフレームワークやツールを使いたい」</p>
-<!-- /wp:paragraph -->
+「golang のフレームワークやツールを使いたい」  
 
-<!-- wp:paragraph -->
-<p>「Markdown ベースで git 管理しながら記事を書きたい」</p>
-<!-- /wp:paragraph -->
+「Markdown ベースで git 管理しながら記事を書きたい」  
 
-<!-- wp:paragraph -->
-<p>「できるかぎり、容量小さめなHTMLでの配信をしたい」</p>
-<!-- /wp:paragraph -->
+「できるかぎり、容量小さめなHTMLでの配信をしたい」  
 
-<!-- wp:paragraph -->
-<p>という思いから、同僚のススメもあり移行しようと思った次第です。</p>
-<!-- /wp:paragraph -->
+という思いから、同僚のススメもあり移行しようと思った次第です。  
 
-<!-- wp:paragraph -->
-<p>Wordpress のような CMS もいいですが、リッチすぎるので、文字ベースなブログにしていきたいなと思う次第です。</p>
-<!-- /wp:paragraph -->
+Wordpress のような CMS もいいですが、リッチすぎるので、文字ベースなブログにしていきたいなと思う次第です。  
 
-<!-- wp:paragraph -->
-<p>仕事上、Markdown もよく使うので、それを基本としたブログにしたいという思いです。</p>
-<!-- /wp:paragraph -->
+仕事上、Markdown もよく使うので、それを基本としたブログにしたいという思いです。  
 
-<!-- wp:paragraph -->
-<p>そんな事を考える3連休初日でした。</p>
-<!-- /wp:paragraph -->
+そんな事を考える3連休初日でした。  
