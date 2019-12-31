@@ -88,23 +88,23 @@
   list-style-position: outside;
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 24px 0 0;
 
   .page-item {
     flex: 0 0 auto;
     font-size: 16px;
-    min-width: 16px;
+    min-width: 22px;
     position: relative;
     text-align: center;
 
     .page-link {
       text-decoration: none;
-      color: rgba(0, 0, 238, 1);
+      color: #4d4d4d;
     }
 
     &.active {
       .page-link {
-        color: rgba(238, 0, 0, 1);
+        color: #aaaaaa;
       }
     }
 
