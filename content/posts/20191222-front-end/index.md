@@ -1,5 +1,5 @@
 ---
-title: "お勉強"
+title: "ライブラリのトレンド"
 date: "2019-12-22 17:00:00+09:00"
 draft: false
 series: "blog"
