@@ -10,7 +10,8 @@
       {{ if eq .Params.thumbnail nil }}
       <div class="item__thumbnail"><a class="link noimage" href="{{.Permalink}}">No Image</a></div>
       {{ else }}
-      <div class="item__thumbnail" style="background-image:url('{{.Params.thumbnail}}');"><a class="link" href="{{.Permalink}}">{{ .Title }}</a></div>
+      <div class="item__thumbnail" style="background-image:url('{{.Params.thumbnail}}');"><a class="link"
+          href="{{.Permalink}}">{{ .Title }}</a></div>
       {{ end }}
       <div class="item__content">
         <h2 class="title"><a class="link" href="{{.Permalink}}">{{.Title}}</a></h2>
@@ -18,8 +19,8 @@
       </div>
     </li>
     {{ end }}
-    {{ template "_internal/pagination.html" . }}
   </ul>
+  {{ template "_internal/pagination.html" . }}
   {{ else }}
   <div>Comming Soon...</div>
   {{ end }}
