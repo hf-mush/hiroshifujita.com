@@ -1,3 +1,4 @@
 /public
 /config.*.toml
 /resources/_gen
+.env
