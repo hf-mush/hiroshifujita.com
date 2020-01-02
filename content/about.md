@@ -2,7 +2,7 @@
 title: "About"
 date: "2020-01-02T12:00:00+09:00"
 draft: false
-series: "about"
+series: "pages"
 ---
 
 * Name: 藤田 周 [ Fujita Hiroshi ]
