@@ -47,6 +47,11 @@
       margin: 0 auto;
     }
 
+    .header .meta {
+      font-size: 16px;
+      padding-top: 8px;
+    }
+
     .header .link {
       color: #000000;
       text-decoration: none;
@@ -96,6 +101,7 @@
 <body>
   <header class="header">
     <h1 class="title"><a class="link" href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
+    <div class="meta"><a class="link" href="/about/">@aboutme</a></div>
   </header>
   <main class="container">
     {{ block "main" . }}
