@@ -3,7 +3,7 @@
 <meta property="og:title" content="{{ .Title }}" />
 {{ with .Description }}
 <meta property="og:type" content="website" />
-<meta property="og:image" content="{{ $.Site.BaseURL }}img/hiroshifujita.jpg" />
+<meta property="og:image" content="{{ $.Site.Params.ogpImageURL }}" />
 <meta property="og:description" content="{{ . }}" />
 {{ else }}
 {{ if .IsPage }}
@@ -13,7 +13,7 @@
 {{ else }}
 {{ with .Site.Params.description }}
 <meta property="og:type" content="website" />
-<meta property="og:image" content="{{ $.Site.BaseURL }}img/hiroshifujita.jpg" />
+<meta property="og:image" content="{{ $.Site.Params.ogpImageURL }}" />
 <meta property="og:description" content="{{ . }}" />
 {{ end }}
 {{ end }}
