@@ -55,6 +55,17 @@
         overflow: scroll;
       }
     }
+
+    ul {
+      list-style-position: inside;
+      margin: 0;
+      padding-left: 16px;
+
+      li {
+        font-size: 16px;
+        line-height: 2;
+      }
+    }
   }
 }
 
