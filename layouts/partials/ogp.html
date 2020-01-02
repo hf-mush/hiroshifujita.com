@@ -1,0 +1,20 @@
+<meta property="fb:app_id" content="{{ $.Site.Params.fbAppId }}" />
+<meta property="og:url" content="{{ $.Permalink }}" />
+<meta property="og:title" content="{{ .Title }}" />
+{{ with .Description }}
+<meta property="og:type" content="website" />
+<meta property="og:image" content="{{ $.Site.Params.ogpImageURL }}" />
+<meta property="og:description" content="{{ . }}" />
+{{ else }}
+{{ if .IsPage }}
+<meta property="og:type" content="article" />
+<meta property="og:image" content="{{ $.Site.BaseURL }}{{ strings.TrimPrefix "/" .Params.Thumbnail }}" />
+<meta property="og:description" content="{{ substr .Summary 0 120 }}" />
+{{ else }}
+{{ with .Site.Params.description }}
+<meta property="og:type" content="website" />
+<meta property="og:image" content="{{ $.Site.Params.ogpImageURL }}" />
+<meta property="og:description" content="{{ . }}" />
+{{ end }}
+{{ end }}
+{{ end }}

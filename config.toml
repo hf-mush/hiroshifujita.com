@@ -5,3 +5,7 @@ paginate=5
 
 [params]
   analyticsCode = "U-XXXXXX-01"
+  description = "hiroshifujitaの活動や日々の記録をつづるブログ"
+  fbAppVersion = "v5.0"
+  fbAppId = "00000000000"
+  ogpImageURL = "http://localhost:1313/img/hiroshifujita.jpg"
