@@ -6,6 +6,12 @@
 $ hugo --config config.prod.toml --minify -D
 ```
 
+### Jpeg compression
+
+``` bash:bash
+$ jpegoptim --strip-all *.jpg  
+```
+
 ## Upload
 
 ``` bash:bash
