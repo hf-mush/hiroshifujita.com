@@ -1,0 +1,23 @@
+#!/bin/bash
+SCRIPT_DIR="$(cd $(dirname $0) && pwd)"
+cd $SCRIPT_DIR
+
+if [ ! -e $SCRIPT_DIR/.env ]; then
+  echo ".env no such file."
+  exit 1
+fi
+
+. $SCRIPT_DIR/.env
+
+echo "build hugo resources."
+hugo --config config.prod.toml --minify -D
+echo "build success."
+
+if [ ! -e public ]; then
+  echo "public/ no such directory."
+  exit 1
+fi
+
+echo "rsync resource to remote."
+rsync --exclude='*.DS_Store' -r public $SSH_HOST:$REMOTE_TARGET
+echo "rsync success."
