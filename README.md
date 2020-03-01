@@ -1,4 +1,10 @@
-# simple-faster
+# hiroshifujita.com
+
+## Deploy
+
+```bash:bash
+$ bash scripts/deploy
+```
 
 ## Build
 
@@ -10,10 +16,4 @@ $ hugo --config config.prod.toml --minify -D
 
 ``` bash:bash
 $ jpegoptim --strip-all *.jpg  
-```
-
-## Upload
-
-``` bash:bash
-$ rsync --exclude='*.DS_Store' -r public sshhost:/path/to/directory/
 ```
