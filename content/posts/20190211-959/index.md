@@ -3,7 +3,8 @@ title: "Springの@Transactionalについて"
 date: "2019-02-11 20:20:12+09:00"
 draft: false
 series: "blog"
-thumbnail: "/posts/20190211-959/20190211_01.jpg"
+thumbnail: "/img/20190211-959_01.jpg"
+webp: "/img/20190211-959_01.webp"
 ---
 最近、Springを扱う時間が長くなってきまして、トランザクションをある程度管理しなければいけなくなったこともあり、@Transactionalについて調べてみました。  
 

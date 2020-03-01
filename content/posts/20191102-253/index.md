@@ -3,7 +3,8 @@ title: "hugoへの移行を考えてる"
 date: "2019-11-02 19:45:03+09:00"
 draft: false
 series: "blog"
-thumbnail: "/posts/20191102-253/20191102_01.jpg"
+thumbnail: "/img/20191102-253_01.jpg"
+webp: "/img/20191102-253_01.webp"
 ---
 Wordpress を使ってブログを書いておりますが、[hugo](https://gohugo.io/)に移行しようと考えてます。  
 
