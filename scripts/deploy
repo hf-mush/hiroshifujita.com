@@ -9,6 +9,18 @@ fi
 
 . $SCRIPT_DIR/.env
 
+if [ -z ${SSH_HOST} ]; then
+  echo "does not set \$SSH_HOST"
+  exit 1
+fi
+
+if [ -z ${REMOTE_TARGET} ]; then
+  echo "does not set \$REMOTE_TARGET"
+  exit 1
+fi
+
+cd $SCRIPT_DIR/..
+
 echo "build hugo resources."
 hugo --config config.prod.toml --minify -D
 echo "build success."
@@ -19,5 +31,7 @@ if [ ! -e public ]; then
 fi
 
 echo "rsync resource to remote."
-rsync --exclude='*.DS_Store' -r public $SSH_HOST:$REMOTE_TARGET
+rsync --exclude='*.DS_Store' -r $SCRIPT_DIR/../public $SSH_HOST:$REMOTE_TARGET
 echo "rsync success."
+
+exit 0
