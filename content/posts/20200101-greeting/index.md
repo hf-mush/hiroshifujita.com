@@ -3,7 +3,8 @@ title: "新年のご挨拶"
 date: "2020-01-01 00:00:00+09:00"
 draft: false
 series: "blog"
-thumbnail: "/posts/20200101-greeting/20200101_01.jpg"
+thumbnail: "/img/20200101-greeting_01.jpg"
+webp: "/img/20200101-greeting_01.webp"
 ---
 
 新年あけましておめでとうございます。  

@@ -3,7 +3,8 @@ title: "ライブラリのトレンド"
 date: "2019-12-22 17:00:00+09:00"
 draft: false
 series: "blog"
-thumbnail: "/posts/20191222-front-end/20191222_01.jpg"
+thumbnail: "/img/20191222-front-end_01.jpg"
+webp: "/img/20191222-front-end_01.webp"
 ---
 
 最近のフロントエンドのトレンドがわからなくなってきたら、これを見たらいいという情報をゲットした。  

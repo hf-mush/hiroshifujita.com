@@ -41,9 +41,12 @@
   }
 
   .item__thumbnail {
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    overflow: hidden;
+
+    .thumbnail__image {
+      height: 76px;
+      width: auto;
+    }
 
     .link {
       color: rgba(0, 0, 0, 0);

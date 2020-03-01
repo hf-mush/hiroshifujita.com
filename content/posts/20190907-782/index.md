@@ -3,7 +3,8 @@ title: "短い夏"
 date: "2019-09-07 09:19:18+09:00"
 draft: false
 series: "blog"
-thumbnail: "/posts/20190907-782/20190907_01.jpg"
+thumbnail: "/img/20190907-782_01.jpg"
+webp: "/img/20190907-782_01.webp"
 ---
 今年の夏はあっという間だったと感じます。  
 
