@@ -1,0 +1,11 @@
+baseURL = "https://hiroshifujita.com/"
+languageCode = "ja-jp"
+title = "HIROSHI FUJITA"
+paginate=5
+
+[params]
+  analyticsCode = "UA-92967977-1"
+  description = "hiroshifujitaの活動や日々の記録をつづるブログ"
+  fbAppVersion = "v5.0"
+  fbAppId = "833900463716082"
+  ogpImageURL = "https://hiroshifujita.com/img/hiroshifujita.jpg"

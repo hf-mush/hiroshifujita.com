@@ -2,27 +2,13 @@
 
 ## Deploy
 
-```bash:bash
-$ bash scripts/deploy
-```
-
-* `/static/img`
-  * must set image size to **width > height**
+1. optimize image files : `bash scripts/optimize_images`
+  * resource : `/static/img`
+    * must set image size to **width > height**
+1. deploy resources : `bash scripts/deploy`
 
 ## Build
 
 ``` bash:bash
-$ hugo --config config.prod.toml --minify -D
-```
-
-## Jpeg compression
-
-``` bash:bash
-$ jpegoptim --strip-all *.jpg  
-```
-
-## Convert *.jpg to *.webp
-
-```bash:bash
-$ python scripts/convert_webp.py
+hugo --config config.prod.toml --minify -D
 ```

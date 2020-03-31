@@ -1,0 +1,13 @@
+#!/bin/bash
+SCRIPT_DIR="$(cd $(dirname $0) && pwd)"
+cd $SCRIPT_DIR/..
+
+echo "optimize img files."
+jpegoptim --strip-all static/img/*.jpg
+echo "optimize success."
+
+echo "convert img to webp from jpeg."
+python scripts/convert_webp.py
+echo "convert success."
+
+exit 0
