@@ -45,7 +45,7 @@
     pre {
       background-color: #f5f5f5;
 
-      code {
+      & > code {
         color: #333333;
         display: block;
         font-size: 16px;
@@ -66,6 +66,10 @@
         font-size: 16px;
         line-height: 2;
       }
+    }
+
+    code {
+      background-color: #ffdddd;
     }
   }
 }
