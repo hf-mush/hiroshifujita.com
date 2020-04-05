@@ -3,6 +3,9 @@ languageCode = "ja-jp"
 title = "HIROSHI FUJITA"
 paginate=5
 
+[author]
+  name="hf-mush"
+
 [params]
   analyticsCode = "U-XXXXXX-01"
   description = "hiroshifujitaの活動や日々の記録をつづるブログ"
