@@ -9,6 +9,7 @@ series: "pages"
 * Facebook: [fujita.hiroshi.82](https://www.facebook.com/fujita.hiroshi.82)
 * Twitter: [@shiropiritamma](https://twitter.com/shiropiritamma)
 * GitHub: [hf-mush](https://github.com/hf-mush)
+* RSS: [/index.xml](https://hiroshifujita.com/index.xml)
 
 ## 経歴
 
