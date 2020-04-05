@@ -3,6 +3,10 @@
   max-width: 960px;
   position: relative;
 
+  * {
+    word-wrap: break-word;
+  }
+
   .content {
     font-size: 16px;
     padding-top: 48px;
