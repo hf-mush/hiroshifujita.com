@@ -1,6 +1,6 @@
 ---
-title: "鬼滅の刃を見る"
-date: "2020-04-05 20:00:00+09:00"
+title: "仕事に遊び心をもって取り組める人になりたい"
+date: "2020-04-05 12:00:00+09:00"
 draft: false
 series: "blog"
 thumbnail: "/img/20200405-thumbnail.jpg"
@@ -33,6 +33,8 @@ Amazon Prime https://www.amazon.co.jp/amazonprime で配信してくれていた
 ただ、面白い。
 
 いろんな視点で楽しめる良い作品だと思います。
+
+なんか、すこしだけ刀語っぽくもある感じ。
 
 ## やっと上司が言っていた言葉の意味がわかった
 
