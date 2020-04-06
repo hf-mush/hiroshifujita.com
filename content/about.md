@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: "2020-04-02T21:00:00+09:00"
+date: "2020-04-06T21:00:00+09:00"
 draft: false
 series: "pages"
 ---
@@ -23,12 +23,13 @@ series: "pages"
 * 読書
 * 映画鑑賞
 * デッサンや模写
-* プッシュアップバー腕立て
 
 ## 好きな本
 
-* ハッカーと画家 : https://www.amazon.co.jp/dp/4274065979
-* エリック・エヴァンスのドメイン駆動設計 (IT Architects’Archive ソフトウェア開発の実践) : https://www.amazon.co.jp/dp/4798121967
+* ハッカーと画家
+  * Amazon: https://www.amazon.co.jp/dp/4274065979
+* エリック・エヴァンスのドメイン駆動設計 (IT Architects’Archive ソフトウェア開発の実践)
+  * Amazon: https://www.amazon.co.jp/dp/4798121967
 
 ## 資格
 
