@@ -2,6 +2,7 @@ baseURL = "http://localhost:1313/"
 languageCode = "ja-jp"
 title = "HIROSHI FUJITA"
 paginate=5
+defaultcontentlanguage="ja"
 
 [author]
   name="hf-mush"
