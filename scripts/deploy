@@ -21,6 +21,9 @@ fi
 
 cd $SCRIPT_DIR/..
 
+echo "execute start"
+start_time=`date +%s`
+
 echo "build hugo resources."
 hugo --config config.prod.toml --minify -D
 echo "build success."
@@ -33,5 +36,9 @@ fi
 echo "rsync resource to remote."
 rsync --exclude='*.DS_Store' -r $SCRIPT_DIR/../public $SSH_HOST:$REMOTE_TARGET
 echo "rsync success."
+
+end_time=`date +%s`
+time=$((end_time - start_time))
+echo "execute time : "$time" s"
 
 exit 0
