@@ -4,7 +4,7 @@
 
 ## Deploy
 
-* optimize image files : `bash scripts/optimize_images`
+* optimize image files : `bash scripts/convert_webp`
   * resource : **/static/img/**
   * image must size **width > height**
 * deploy resources : `bash scripts/deploy`
