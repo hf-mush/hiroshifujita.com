@@ -2,12 +2,12 @@
 <html lang="{{ .Site.LanguageCode }}">
 
 <head>
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ $.Site.Params.analyticsCode }}"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ $.Site.GoogleAnalytics }}"></script>
   <script async>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
-    gtag('config', '{{ $.Site.Params.analyticsCode }}');
+    gtag('config', '{{ $.Site.GoogleAnalytics }}');
   </script>
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta charset="utf-8">
