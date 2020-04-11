@@ -3,12 +3,15 @@ languageCode = "ja-jp"
 title = "HIROSHI FUJITA"
 paginate=5
 defaultcontentlanguage="ja"
+theme = "simple-and-fast"
+googleAnalytics = "U-XXXXXX-01"
 
 [author]
-  name="hf-mush"
+  name = "hf-mush"
+  github = "hf-mush"
+  mail = "fuchantoshu@gmail.com"
 
 [params]
-  analyticsCode = "U-XXXXXX-01"
   description = "hiroshifujitaの活動や日々の記録をつづるブログ"
   fbAppVersion = "v5.0"
   fbAppId = "00000000000"
