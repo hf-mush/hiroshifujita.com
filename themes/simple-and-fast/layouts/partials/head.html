@@ -1,0 +1,99 @@
+<head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ $.Site.GoogleAnalytics }}"></script>
+    <script async>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', '{{ $.Site.GoogleAnalytics }}');
+    </script>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta charset="utf-8">
+    <meta name="author" content="{{ $.Site.Author.name }}">
+    {{ with .Description }}
+    <meta name="description" content="{{ . }}" />
+    {{ else }}
+    {{ if .IsPage }}
+    <meta name="description" content="{{ substr .Summary 0 120 }}" />
+    {{ else }}
+    {{ with .Site.Params.description }}
+    <meta name="description" content="{{ . }}" />
+    {{ end }}
+    {{ end }}
+    {{ end }}
+    <base href="{{ .Site.BaseURL }}">
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    <link rel="canonical" href="{{ .Permalink }}">
+    {{ with .OutputFormats.Get "rss" -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+    {{ end -}}
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        html,
+        body {
+            font-family: hiragino kaku gothic pron, meiryo, sans-serif, system-ui;
+            height: 100%;
+            margin: 0;
+            width: 100%;
+        }
+
+        h1,
+        h2 {
+            margin: 0;
+        }
+
+        .header {
+            height: auto;
+            margin: 0 auto;
+            max-width: 992px;
+            padding: 40px 24px;
+            width: 100%;
+        }
+
+        .header .title {
+            font-size: 24px;
+            font-weight: normal;
+            line-height: 1.5;
+            margin: 0 auto;
+        }
+
+        .header .meta {
+            font-size: 16px;
+            padding-top: 8px;
+        }
+
+        .header .link {
+            color: #000000;
+            text-decoration: none;
+        }
+
+        .header .link:hover {
+            color: #666666;
+        }
+
+        .container {
+            margin: 0 auto;
+            max-width: 992px;
+            padding: 24px;
+            width: 100%;
+        }
+
+        .footer {
+            margin: 0 auto;
+            max-width: 996px;
+            padding: 24px;
+        }
+
+        .footer .cr {
+            font-size: 14px;
+            text-align: right;
+        }
+    </style>
+    {{ $style := resources.Get "sass/main.scss" | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
+    {{ partial "link-icon.html" . }}
+    {{ partial "open_graph.html" . }}
+    {{ partial "twitter_cards.html" . }}
+</head>

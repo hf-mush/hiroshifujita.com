@@ -24,14 +24,11 @@ cd $SCRIPT_DIR/..
 echo "execute start"
 start_time=`date +%s`
 
+rm -rf public
+
 echo "build hugo resources."
 hugo --config config.prod.toml --minify -D
 echo "build success."
-
-if [ ! -e public ]; then
-  echo "public/ no such directory."
-  exit 1
-fi
 
 echo "rsync resource to remote."
 rsync --exclude='*.DS_Store' -r $SCRIPT_DIR/../public $SSH_HOST:$REMOTE_TARGET
