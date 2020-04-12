@@ -1,18 +1,26 @@
 baseURL = "http://localhost:1313/"
 languageCode = "ja-jp"
+defaultcontentlanguage="ja"
+hasCJKLanguage=true
 title = "HIROSHI FUJITA"
 paginate=5
-defaultcontentlanguage="ja"
 theme = "simple-and-fast"
 googleAnalytics = "U-XXXXXX-01"
 
 [author]
   name = "hf-mush"
-  github = "hf-mush"
   mail = "fuchantoshu@gmail.com"
 
+[social]
+  facebook = "fujita.hiroshi.82"
+  twitter = "shiropiritamma"
+  github = "hf-mush"
+
 [params]
+  title = "HIROSHI FUJITA"
   description = "hiroshifujitaの活動や日々の記録をつづるブログ"
-  fbAppVersion = "v5.0"
-  fbAppId = "00000000000"
-  ogpImageURL = "http://localhost:1313/img/hiroshifujita.jpg"
+  images = ["http://localhost:1313/img/hiroshifujita.jpg"]
+  locale = "ja_JP"
+
+[taxonomies]
+  series = "series"
