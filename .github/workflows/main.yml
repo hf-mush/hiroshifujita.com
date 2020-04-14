@@ -29,3 +29,6 @@ jobs:
         hugo-version: latest # optional, default is latest
         # Download (if necessary) and use Hugo extended version. Example: true
         extended: true # optional, default is false
+
+    - name: Build
+      run: hugo --config config.prod.toml --minify -D
