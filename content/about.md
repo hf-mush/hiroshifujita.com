@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: "2020-04-06T21:00:00+09:00"
+date: "2020-04-14T21:50:00+09:00"
 draft: false
 series: "pages"
 ---
@@ -9,6 +9,7 @@ series: "pages"
 * Facebook: [fujita.hiroshi.82](https://www.facebook.com/fujita.hiroshi.82)
 * Twitter: [@shiropiritamma](https://twitter.com/shiropiritamma)
 * GitHub: [hf-mush](https://github.com/hf-mush)
+* Qiita: [fujitahiroshi](https://qiita.com/fujitahiroshi)
 * RSS: [/index.xml](https://hiroshifujita.com/index.xml)
 
 ## 経歴
