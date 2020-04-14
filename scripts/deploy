@@ -27,7 +27,7 @@ start_time=`date +%s`
 rm -rf public
 
 echo "build hugo resources."
-hugo --config config.prod.toml --minify -D
+hugo --config config.prod.toml --buildFuture --minify -D
 echo "build success."
 
 echo "rsync resource to remote."
