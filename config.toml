@@ -21,6 +21,7 @@ googleAnalytics = "U-XXXXXX-01"
   description = "hiroshifujitaの活動や日々の記録をつづるブログ"
   images = ["http://localhost:1313/img/hiroshifujita.jpg"]
   locale = "ja_JP"
+  adsense = "ca-pub-xxxxxxxxxxxxxxxxxxx"
 
 [taxonomies]
   series = "series"

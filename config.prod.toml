@@ -21,6 +21,7 @@ googleAnalytics = "UA-92967977-1"
   description = "hiroshifujitaの活動や日々の記録をつづるブログ"
   images = ["https://hiroshifujita.com/img/hiroshifujita.jpg"]
   locale = "ja_JP"
+  adsense = "ca-pub-4269106456957457"
 
 [taxonomies]
   series = "series"
