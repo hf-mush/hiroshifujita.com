@@ -2,7 +2,7 @@
 title: "Favicon生成の自動化"
 date: "2018-12-16 07:30:28+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20181216-thumbnail.jpg"
 webp: "/img/20181216-thumbnail.webp"
 ---

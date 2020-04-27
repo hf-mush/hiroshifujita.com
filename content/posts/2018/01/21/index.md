@@ -2,7 +2,7 @@
 title: "ピーチの搭乗手続きはご注意を。"
 date: "2018-01-21 06:30:33+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 昨日から松山にきております。  
 

@@ -2,7 +2,7 @@
 title: "リモートワークとコロナ"
 date: "2020-03-30 21:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200330-thumbnail.jpg"
 webp: "/img/20200330-thumbnail.webp"
 ---

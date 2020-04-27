@@ -2,7 +2,7 @@
 title: "キャリアを考える年齢になったのかな"
 date: "2020-04-19 10:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200419-thumbnail.jpg"
 webp: "/img/20200419-thumbnail.webp"
 ---

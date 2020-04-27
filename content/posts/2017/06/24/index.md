@@ -2,7 +2,7 @@
 title: "Mac で Golang を使った開発を始める（１）"
 date: "2017-06-24 15:52:13+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 数ヶ月前から気になっていた <strong>“Go言語”</strong> を使って開発を始めようかなと思います。
 

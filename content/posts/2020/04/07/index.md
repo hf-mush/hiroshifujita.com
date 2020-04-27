@@ -2,7 +2,7 @@
 title: "新型インフルエンザ等対策特別措置法からポイントを探る"
 date: "2020-04-07 08:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200407-thumbnail.jpg"
 webp: "/img/20200407-thumbnail.webp"
 ---

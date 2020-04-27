@@ -2,7 +2,7 @@
 title: "最近は映画ばかり"
 date: "2018-03-18 14:48:47+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 最近の休日は何している？  
 

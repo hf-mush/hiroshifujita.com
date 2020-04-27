@@ -2,7 +2,7 @@
 title: "リニューアル予定のお話"
 date: "2019-02-03 19:38:45+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20190203-thumbnail.jpg"
 webp: "/img/20190203-thumbnail.webp"
 ---

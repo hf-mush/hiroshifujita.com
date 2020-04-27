@@ -2,7 +2,7 @@
 title: "ご近所付き合いも大事"
 date: "2020-04-21 07:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200421-thumbnail.jpg"
 webp: "/img/20200421-thumbnail.webp"
 ---

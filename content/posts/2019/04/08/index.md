@@ -2,7 +2,7 @@
 title: "ウェブサイト上のJavascriptから位置情報を取得するにはどうするか調べた結果"
 date: "2019-04-08 07:00:14+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20190408-thumbnail.jpg"
 webp: "/img/20190408-thumbnail.webp"
 ---

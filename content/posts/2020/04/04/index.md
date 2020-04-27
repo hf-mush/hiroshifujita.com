@@ -2,7 +2,7 @@
 title: "AWSの1年にしたい"
 date: "2020-04-04 12:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200404-thumbnail.jpg"
 webp: "/img/20200404-thumbnail.webp"
 ---

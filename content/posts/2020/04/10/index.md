@@ -2,7 +2,7 @@
 title: "リモートとコミュニケーション"
 date: "2020-04-10 08:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200410-thumbnail.jpg"
 webp: "/img/20200410-thumbnail.webp"
 ---

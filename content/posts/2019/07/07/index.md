@@ -2,7 +2,7 @@
 title: "短い夏"
 date: "2019-09-07 09:19:18+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20190907-thumbnail.jpg"
 webp: "/img/20190907-thumbnail.webp"
 ---

@@ -2,7 +2,7 @@
 title: "SSL 化の波に乗る"
 date: "2017-07-12 21:16:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 このブログを、HTTPS化しました。
 

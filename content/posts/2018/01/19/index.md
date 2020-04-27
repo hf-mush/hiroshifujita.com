@@ -2,7 +2,7 @@
 title: "Postman がすごい便利"
 date: "2018-01-19 06:30:20+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 API のテストをしようってなった時、同じようなテストや前処理をおこなったり、すごい大変なときがあります。
 　

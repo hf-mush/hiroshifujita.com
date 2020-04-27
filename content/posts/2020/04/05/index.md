@@ -2,7 +2,7 @@
 title: "仕事に遊び心をもって取り組める人になりたい"
 date: "2020-04-05 12:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200405-thumbnail.jpg"
 webp: "/img/20200405-thumbnail.webp"
 ---

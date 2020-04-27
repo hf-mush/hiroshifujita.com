@@ -2,7 +2,7 @@
 title: "「４２　〜世界を変えた男〜」でボロ泣き"
 date: "2018-01-06 06:30:44+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 私の御用達 <a href="https://www.happyon.jp/" rel="noopener noreferrer" target="_blank">Hulu</a> で「４２　〜世界を変えた男」を観ました。
 　

@@ -2,7 +2,7 @@
 title: "開発環境は Docker が便利。"
 date: "2017-05-05 09:35:22+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 開発環境を準備する時、最低3つ以上は作ることが必要だと思う。
 

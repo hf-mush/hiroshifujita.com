@@ -2,7 +2,7 @@
 title: "邦画のみの１日"
 date: "2018-06-11 07:00:28+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 今日も映画館へ。  
 

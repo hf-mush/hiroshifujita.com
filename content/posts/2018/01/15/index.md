@@ -2,7 +2,7 @@
 title: "今年の気になる映画たち Part2"
 date: "2018-01-15 06:30:14+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 今年の気になる映画 Part 2 ってことで。
 　

@@ -2,7 +2,7 @@
 title: "久しぶりの引っ越しでヘトヘト"
 date: "2020-04-18 22:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200418-thumbnail.jpg"
 webp: "/img/20200418-thumbnail.webp"
 ---

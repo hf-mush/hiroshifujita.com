@@ -2,7 +2,7 @@
 title: "日曜日は準備の日"
 date: "2017-05-15 07:00:09+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 前は結構ゴロゴロしたり、好きなことをしていた日曜日。
 

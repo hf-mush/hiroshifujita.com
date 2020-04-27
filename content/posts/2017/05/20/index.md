@@ -2,7 +2,7 @@
 title: "ウェブとアプリを兼ね備えてるってすごいよ"
 date: "2017-05-20 07:00:54+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 最近、ざわついているワード。  
 

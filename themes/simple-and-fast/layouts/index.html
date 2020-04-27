@@ -1,10 +1,10 @@
 {{ define "main" }}
 <div class="article">
-  {{ $posts := (where .Site.Pages "Params.series" "==" "blog") }}
+  {{ $posts := (where .Site.Pages "Params.categories" "==" "blog") }}
   {{ $postCount := len $posts }}
   {{ if gt $postCount 0 }}
   <ul class="list archives">
-    {{ $pager := .Paginate (where .Site.Pages "Params.series" "blog") 10 }}
+    {{ $pager := .Paginate (where .Site.Pages "Params.categories" "blog") 10 }}
     {{ range $pager.Pages }}
     <li class="list__item list-posts">
       {{ if eq .Params.thumbnail nil }}

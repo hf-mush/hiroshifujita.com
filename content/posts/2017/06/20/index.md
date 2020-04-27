@@ -2,7 +2,7 @@
 title: "羨ましいと思って見ているだけじゃ、何も変わらない"
 date: "2017-06-20 23:56:56+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 あれがしたい、これがしたい。
 

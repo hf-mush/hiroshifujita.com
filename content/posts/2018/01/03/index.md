@@ -2,7 +2,7 @@
 title: "新年早々"
 date: "2018-01-03 06:30:49+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 昨日、実家から大阪に戻ってきました。
  

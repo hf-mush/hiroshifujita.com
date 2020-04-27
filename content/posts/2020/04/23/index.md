@@ -2,7 +2,7 @@
 title: "人間って不思議"
 date: "2020-04-23 07:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200423-thumbnail.jpg"
 webp: "/img/20200423-thumbnail.webp"
 ---

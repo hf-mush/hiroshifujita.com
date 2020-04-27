@@ -2,7 +2,7 @@
 title: "リモート飲み会体験"
 date: "2020-04-26 07:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200426-thumbnail.jpg"
 webp: "/img/20200426-thumbnail.webp"
 ---

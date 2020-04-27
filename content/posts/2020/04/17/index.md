@@ -2,7 +2,7 @@
 title: "肩こりは筋力で解消"
 date: "2020-04-17 07:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200417-thumbnail.jpg"
 webp: "/img/20200417-thumbnail.webp"
 ---

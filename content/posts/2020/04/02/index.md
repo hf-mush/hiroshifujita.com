@@ -2,7 +2,7 @@
 title: "リモートワークにおけるチャット"
 date: "2020-04-02 20:30:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200402-thumbnail.jpg"
 webp: "/img/20200402-thumbnail.webp"
 ---

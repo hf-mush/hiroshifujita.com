@@ -2,7 +2,7 @@
 title: "Mac から GitHub への操作に毎回パスワード聞かれる問題"
 date: "2018-02-12 11:25:05+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 Mac のターミナルで GitHub へ Push しようとすると、毎回パスワードを聞かれます。  
 

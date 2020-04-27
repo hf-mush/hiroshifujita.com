@@ -2,7 +2,7 @@
 title: "今年の一作目は「キングスマン」"
 date: "2018-01-07 06:30:43+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 写真はシネマイレージカード。みなさんも是非。笑
 　

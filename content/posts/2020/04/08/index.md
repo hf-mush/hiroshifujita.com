@@ -2,7 +2,7 @@
 title: "30歳から気をつけだしたこと"
 date: "2020-04-08 08:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200408-thumbnail.jpg"
 webp: "/img/20200408-thumbnail.webp"
 ---

@@ -2,7 +2,7 @@
 title: "hugoへの移行を考えてる"
 date: "2019-11-02 19:45:03+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20191102-thumbnail.jpg"
 webp: "/img/20191102-thumbnail.webp"
 ---

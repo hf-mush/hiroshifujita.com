@@ -2,7 +2,7 @@
 title: "私は関数型"
 date: "2018-02-21 06:30:59+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 私の好きなプログラミング言語は、下記です。
 

@@ -2,7 +2,7 @@
 title: "新年あけましておめでとうございます。"
 date: "2018-01-01 14:37:29+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 みなさま、あけましておめでとうございます。
 　

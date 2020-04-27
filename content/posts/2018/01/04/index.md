@@ -2,7 +2,7 @@
 title: "今年も始動！"
 date: "2018-01-04 06:30:03+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 今日から仕事始めです！
 　　

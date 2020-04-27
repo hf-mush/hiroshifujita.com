@@ -2,7 +2,7 @@
 title: "Springの@Transactionalについて"
 date: "2019-02-11 20:20:12+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20190211-thumbnail.jpg"
 webp: "/img/20190211-thumbnail.webp"
 ---

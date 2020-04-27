@@ -2,7 +2,7 @@
 title: "ざっくりとした近況報告"
 date: "2018-10-19 08:37:58+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 ここ数ヶ月、毎週のように東京に来てます。  
 

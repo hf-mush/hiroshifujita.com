@@ -2,7 +2,7 @@
 title: "HUGOに置き換えました"
 date: "2019-11-23 17:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20191123-thumbnail.jpg"
 webp: "/img/20191123-thumbnail.webp"
 ---

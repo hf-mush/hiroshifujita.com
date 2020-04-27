@@ -2,7 +2,7 @@
 title: "本格的なリモート環境に向けて"
 date: "2020-04-12 08:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200412-thumbnail.jpg"
 webp: "/img/20200412-thumbnail.webp"
 ---

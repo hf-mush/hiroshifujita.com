@@ -2,7 +2,7 @@
 title: "「公開する強さ」と、結局「好きこそものの上手なれ」。"
 date: "2017-05-06 12:07:50+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 最近、Angular を使ってアプリを作っています。
 

@@ -2,7 +2,7 @@
 title: "「アイ・アム・レジェンド」を観て"
 date: "2018-01-13 06:30:35+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 アイ・アム・レジェンドを観ました。
 　

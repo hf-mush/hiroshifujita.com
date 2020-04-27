@@ -2,7 +2,7 @@
 title: "スマートな生活を目指して"
 date: "2020-04-20 14:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200420-thumbnail.jpg"
 webp: "/img/20200420-thumbnail.webp"
 ---

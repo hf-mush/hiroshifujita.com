@@ -2,7 +2,7 @@
 title: "続けることで意識が変わる"
 date: "2020-04-16 07:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200416-thumbnail.jpg"
 webp: "/img/20200416-thumbnail.webp"
 ---

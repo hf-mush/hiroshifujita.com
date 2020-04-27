@@ -2,7 +2,7 @@
 title: "AWS ソリューションアーキテクトの勉強"
 date: "2018-01-31 06:30:57+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 さて、２月に AWS ソリューションアーキテクト合格を目指して、勉強スタート。  
 
