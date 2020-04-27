@@ -2,7 +2,7 @@
 title: "「楽々 ERD レッスン」の羽生先生と話して語らい"
 date: "2017-07-10 23:00:43+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 「楽々 ERD レッスン」などの著書で知られる<a href="http://amzn.to/2tFOdLL" target="_blank" rel="noopener noreferrer">羽生先生</a>と飲んで語らう機会をいただき、行って来ました。
 

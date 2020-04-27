@@ -2,7 +2,7 @@
 title: "生活のインフラが整いました"
 date: "2020-04-22 07:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200422-thumbnail.jpg"
 webp: "/img/20200422-thumbnail.webp"
 ---

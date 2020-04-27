@@ -2,7 +2,7 @@
 title: "PMBOK を学ぶ"
 date: "2017-05-09 07:00:21+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 GW も終わり、再び仕事が始まりました。
 

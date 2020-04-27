@@ -2,7 +2,7 @@
 title: "英語を学ぶヒント"
 date: "2018-01-29 06:30:31+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 うちの会社に外国の方はけっこういるけど、私の部署にはいなかったんです。  
 

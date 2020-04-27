@@ -2,7 +2,7 @@
 title: "社会の変貌を目の当たりにしていること、気づいてますか？"
 date: "2020-04-11 08:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200411-thumbnail.jpg"
 webp: "/img/20200411-thumbnail.webp"
 ---

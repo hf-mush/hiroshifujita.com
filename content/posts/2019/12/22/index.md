@@ -2,7 +2,7 @@
 title: "ライブラリのトレンド"
 date: "2019-12-22 17:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20191222-thumbnail.jpg"
 webp: "/img/20191222-thumbnail.webp"
 ---

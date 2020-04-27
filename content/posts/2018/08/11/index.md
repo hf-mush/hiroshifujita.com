@@ -2,7 +2,7 @@
 title: "今日からお盆休み"
 date: "2018-08-11 10:00:46+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 世間は夏休み。  
 

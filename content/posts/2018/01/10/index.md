@@ -2,7 +2,7 @@
 title: "AWS の試験への挑戦"
 date: "2018-01-10 06:30:08+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 今の会社に入って、AWS を触らせてもらうことが増えました。
 　

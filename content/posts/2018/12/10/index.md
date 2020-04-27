@@ -2,7 +2,7 @@
 title: "久しぶりの映画"
 date: "2018-12-10 07:30:40+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20181210-thumbnail.jpg"
 webp: "/img/20181210-thumbnail.webp"
 ---

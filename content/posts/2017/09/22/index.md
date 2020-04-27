@@ -2,7 +2,7 @@
 title: "Mac で Golang を使った開発を始める（３）"
 date: "2017-09-22 05:39:26+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 前回から丸２ヶ月ほど経ちました。
 　

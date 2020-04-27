@@ -2,7 +2,7 @@
 title: "仕様書の悩み"
 date: "2020-04-15 07:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200415-thumbnail.jpg"
 webp: "/img/20200415-thumbnail.webp"
 ---

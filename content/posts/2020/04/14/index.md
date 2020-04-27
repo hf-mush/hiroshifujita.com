@@ -2,7 +2,7 @@
 title: "平日でも閑散として・・・"
 date: "2020-04-14 07:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200414-thumbnail.jpg"
 webp: "/img/20200414-thumbnail.webp"
 ---

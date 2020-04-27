@@ -2,7 +2,7 @@
 title: "グレイテスト・ショーマンを鑑賞してきました"
 date: "2018-02-18 06:30:51+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 昨日、今年の注目映画の一つ「[グレイテスト・ショーマン](http://www.foxmovies-jp.com/greatest-showman/)」を観てきました！
 

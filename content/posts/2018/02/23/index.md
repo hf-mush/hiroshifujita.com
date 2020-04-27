@@ -2,7 +2,7 @@
 title: "awk コマンドが便利なことを知った"
 date: "2018-02-22 06:30:41+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 Mac のターミナルで、いろいろとログを見るようになってきたんですが、<strong>awk</strong> コマンドが便利。
 

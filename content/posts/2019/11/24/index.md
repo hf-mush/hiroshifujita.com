@@ -2,7 +2,7 @@
 title: "クリティカルCSSの話"
 date: "2019-11-24 17:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20191124-thumbnail.jpg"
 webp: "/img/20191124-thumbnail.webp"
 ---

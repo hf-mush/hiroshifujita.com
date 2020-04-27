@@ -2,7 +2,7 @@
 title: "自分なりのコンパスを"
 date: "2017-06-04 17:37:34+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 <strong>“愚者は経験に学び、賢者は歴史に学ぶ”</strong> - オットー・フォン・ビスマルク　初代ドイツ帝国宰相
 

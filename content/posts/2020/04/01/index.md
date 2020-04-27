@@ -2,7 +2,7 @@
 title: "波乱の新年度"
 date: "2020-04-01 21:30:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200401-thumbnail.jpg"
 webp: "/img/20200401-thumbnail.webp"
 ---

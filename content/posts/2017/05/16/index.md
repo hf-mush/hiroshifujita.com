@@ -2,7 +2,7 @@
 title: "怪物に追いかけられる"
 date: "2017-05-16 07:00:57+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 最近、何かに追いかけられる夢を見ることが増えました。
 

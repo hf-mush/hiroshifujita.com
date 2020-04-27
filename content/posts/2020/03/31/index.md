@@ -2,7 +2,7 @@
 title: "2019年度の振り返り"
 date: "2020-03-31 22:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200331-thumbnail.jpg"
 webp: "/img/20200331-thumbnail.webp"
 ---

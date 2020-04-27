@@ -2,7 +2,7 @@
 title: "応用情報技術者試験に申し込みました。"
 date: "2018-02-22 06:30:42+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 先日、[応用情報技術者試験](https://www.jitec.ipa.go.jp/1_11seido/ap.html)に申し込みました。
 

@@ -3,7 +3,26 @@
   <ul class="list archives">
     {{ range .Paginator.Pages }}
     <li class="list__item list-posts">
-      <div class="item__thumbnail"><a class="link" href="{{.Permalink}}">No Image</a></div>
+      {{ if eq .Params.thumbnail nil }}
+      <div class="item__thumbnail"><a class="link noimage" href="{{.Permalink}}">No Image</a></div>
+      {{ else }}
+      {{ if eq .Params.webp nil }}
+      <div class="item__thumbnail"><a class="link" href="{{.Permalink}}">
+          <picture>
+            <source srcset="{{.Params.thumbnail}}" type="image/jpeg">
+            <img class="thumbnail__image" src="{{.Params.thumbnail}}" alt="{{.Title}}">
+          </picture>
+        </a></div>
+      {{ else }}
+      <div class="item__thumbnail"><a class="link" href="{{.Permalink}}">
+          <picture>
+            <source srcset="{{.Params.webp}}" type="image/webp">
+            <source srcset="{{.Params.thumbnail}}" type="image/jpeg">
+            <img class="thumbnail__image" src="{{.Params.thumbnail}}" alt="{{.Title}}">
+          </picture>
+        </a></div>
+      {{ end }}
+      {{ end }}
       <div class="item__content">
         <h2 class="title"><a class="link" href="{{.Permalink}}">{{.Title}}</a></h2>
         <div class="date">{{.Date.Format "2006-01-02"}}</div>

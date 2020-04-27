@@ -2,7 +2,7 @@
 title: "API仕様書をつくる"
 date: "2018-10-24 06:00:49+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 仕事柄、設計書やら仕様書などもつくることが増えてきました。  
 

@@ -2,7 +2,7 @@
 title: "11月11日は「麺の日」"
 date: "2018-01-11 06:30:06+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 今日は「麺の日」らしいですね。
 　

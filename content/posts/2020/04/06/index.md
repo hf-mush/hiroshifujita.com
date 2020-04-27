@@ -2,7 +2,7 @@
 title: "ページネーションをカスタマイズ"
 date: "2020-04-06 08:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200406-thumbnail.jpg"
 webp: "/img/20200406-thumbnail.webp"
 ---

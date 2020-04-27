@@ -2,7 +2,7 @@
 title: "読書のGW"
 date: "2020-04-27 07:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200427-thumbnail.jpg"
 webp: "/img/20200427-thumbnail.webp"
 ---

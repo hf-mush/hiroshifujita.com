@@ -2,7 +2,7 @@
 title: "消化不良"
 date: "2018-06-18 11:11:23+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 今日は、大阪北部の震度６地震で、会社が休みになったのでブログを書きます。  
 

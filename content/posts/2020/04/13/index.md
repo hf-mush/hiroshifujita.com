@@ -2,7 +2,7 @@
 title: "雑記のような話"
 date: "2020-04-13 07:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200413-thumbnail.jpg"
 webp: "/img/20200413-thumbnail.webp"
 ---

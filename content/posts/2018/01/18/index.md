@@ -2,7 +2,7 @@
 title: "Windows IIS でリバースプロキシをする"
 date: "2018-01-18 06:30:17+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 最近、Windows サーバー上に IIS をインストールして運用する案件がいくつかありました。  
 

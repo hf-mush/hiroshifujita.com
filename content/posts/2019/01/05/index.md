@@ -2,7 +2,7 @@
 title: "新年のご挨拶"
 date: "2019-01-05 21:45:48+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20190105-thumbnail.jpg"
 webp: "/img/20190105-thumbnail.webp"
 ---

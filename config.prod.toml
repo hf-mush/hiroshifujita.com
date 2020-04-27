@@ -6,6 +6,7 @@ title = "HIROSHI FUJITA"
 paginate=5
 theme = "simple-and-fast"
 googleAnalytics = "UA-164674809-1"
+categories = ["blog", "page"]
 
 [author]
   name = "hf-mush"
@@ -24,4 +25,4 @@ googleAnalytics = "UA-164674809-1"
   adsense = "ca-pub-4269106456957457"
 
 [taxonomies]
-  series = "series"
+  category = "categories"

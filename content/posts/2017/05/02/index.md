@@ -2,7 +2,7 @@
 title: "学び続ける姿勢"
 date: "2017-05-02 15:41:06+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 みなさん、GW はいかがお過ごしでしょうか。
 

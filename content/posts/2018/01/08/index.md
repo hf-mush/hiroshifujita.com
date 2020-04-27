@@ -2,7 +2,7 @@
 title: "成人式、おめでとう。"
 date: "2018-01-08 06:30:04+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 今日は、成人の日です。
 　

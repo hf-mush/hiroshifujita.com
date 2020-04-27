@@ -2,7 +2,7 @@
 title: "スーパームーン"
 date: "2020-04-09 08:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200409-thumbnail.jpg"
 webp: "/img/20200409-thumbnail.webp"
 ---

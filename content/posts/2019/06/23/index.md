@@ -2,7 +2,7 @@
 title: "サイトを一新しました"
 date: "2019-06-23 12:31:03+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20190623-thumbnail.jpg"
 webp: "/img/20190623-thumbnail.webp"
 ---

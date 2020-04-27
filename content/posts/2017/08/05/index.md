@@ -2,7 +2,7 @@
 title: "ひろし、いまは28歳。"
 date: "2017-08-05 15:02:50+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 先日、8月2日に28歳となりました！
 

@@ -2,7 +2,7 @@
 title: "python でなんかやってみようと思い立った"
 date: "2018-07-31 02:11:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 巳年なので、python になんだか親近感がわいてしまうのは私だけ。
 

@@ -2,7 +2,7 @@
 title: "掃除の春"
 date: "2020-04-03 21:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200403-thumbnail.jpg"
 webp: "/img/20200403-thumbnail.webp"
 ---

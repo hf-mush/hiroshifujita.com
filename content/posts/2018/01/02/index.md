@@ -2,7 +2,7 @@
 title: "嵐が過ぎ去る"
 date: "2018-01-02 20:00:33+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 年末年始は、いつも実家で過ごしてます。
   

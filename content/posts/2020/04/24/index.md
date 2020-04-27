@@ -2,7 +2,7 @@
 title: "明日のために頑張る"
 date: "2020-04-24 07:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200424-thumbnail.jpg"
 webp: "/img/20200424-thumbnail.webp"
 ---

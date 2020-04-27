@@ -2,7 +2,7 @@
 title: "今年の運勢"
 date: "2018-01-20 06:30:23+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 遅ればせながら、初詣に行ってまいりました。  
 

@@ -2,7 +2,7 @@
 title: "感謝の気持ち"
 date: "2020-04-25 07:00:00+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 thumbnail: "/img/20200425-thumbnail.jpg"
 webp: "/img/20200425-thumbnail.webp"
 ---

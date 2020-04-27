@@ -2,7 +2,7 @@
 title: "IT 生かしたサービスつくるための Web API 初級"
 date: "2017-06-28 02:57:35+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 Web ってなに？
 

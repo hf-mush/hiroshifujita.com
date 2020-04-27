@@ -2,7 +2,7 @@
 title: "今年からの作戦"
 date: "2018-01-05 06:30:20+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 今年は、続きます。
 　

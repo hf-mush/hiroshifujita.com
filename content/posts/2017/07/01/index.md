@@ -2,7 +2,7 @@
 title: "Mac で Golang を使った開発を始める（２）"
 date: "2017-07-01 15:07:43+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 前回は <a href="http://golang-jp.org/" target="_blank" rel="noopener noreferrer">Golang</a> をインストールするところまで行きました。
 

@@ -2,7 +2,7 @@
 title: "「考える」こと"
 date: "2017-06-03 22:32:42+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 先日、上司から「藤田くん、感覚派だよね」と言われました。
 

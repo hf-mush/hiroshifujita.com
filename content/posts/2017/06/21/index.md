@@ -2,7 +2,7 @@
 title: "「仕事」について考えてみる"
 date: "2017-06-21 23:00:41+09:00"
 draft: false
-series: "blog"
+categories: "blog"
 ---
 人生の大半でかかわる「仕事」。
 
