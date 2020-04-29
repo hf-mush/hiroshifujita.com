@@ -17,8 +17,13 @@
     display: flex;
 
     .item__thumbnail {
+      border: 1px solid #efefef;
+      flex: 0 0 auto;
+      font-size: 16px;
       height: 104px;
+      line-height: 6.5;
       overflow: hidden;
+      text-align: center;
       width: 104px;
 
       .thumbnail__image {
@@ -43,6 +48,7 @@
     }
 
     .item__content {
+      flex: 1 1 auto;
       padding-left: 32px;
 
       .title {
