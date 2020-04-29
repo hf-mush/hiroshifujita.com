@@ -1,7 +1,10 @@
 .aside-content {
-  background-color: #f3f3f3;
-  margin-top: 40px;
-  padding: 24px;
+  margin-top: 120px;
+  padding: 0;
+
+  & > .title {
+    font-size: 18px;
+  }
 }
 
 .related__list {
@@ -43,7 +46,7 @@
       padding-left: 32px;
 
       .title {
-        font-size: 20px;
+        font-size: 18px;
 
         .link {
           color: #444444;
