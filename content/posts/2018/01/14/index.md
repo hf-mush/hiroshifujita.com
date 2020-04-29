@@ -14,7 +14,7 @@ ALWAYS とか、ヤング・アダルト・ニューヨークとか、バクマ�
 　
 <a href="https://www.amazon.co.jp/%E3%83%90%E3%82%AF%E3%83%9E%E3%83%B3%E3%80%82Blu-ray-%E9%80%9A%E5%B8%B8%E7%89%88-%E4%BD%90%E8%97%A4%E5%81%A5/dp/B01A9SJCLK/ref=as_li_ss_il?s=dvd&ie=UTF8&qid=1515915597&sr=1-5&keywords=%E3%83%90%E3%82%AF%E3%83%9E%E3%83%B3&linkCode=li2&tag=roadofrich-22&linkId=965531aa28d2a01478dc9341b2702aa6" target="_blank" rel="noopener noreferrer"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01A9SJCLK&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=roadofrich-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=roadofrich-22&l=li2&o=9&a=B01A9SJCLK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 　
-<h2>笑ったり、泣いたり</h2>
+## 笑ったり、泣いたり
 
 SF とか、アクションを観てたら、カッコいい！強い！やっちゃえ！勝て！といったアグレッシブな感情を抱くことが多いです。
 　
@@ -24,7 +24,7 @@ SF とか、アクションを観てたら、カッコいい！強い！やっ�
 　
 普段、考え込んで、無表情なことが多いと言われているんですが、映画をみて感情のリハビリです。笑
 　
-<h2>影響されやすい自分がいる</h2>
+## 影響されやすい自分がいる
 
 映画を観ると、多くの場合、その世界観やキャラクターに影響されて、なんとなく真似てみたり、いろんなことを想像してみたりして、楽しんでます。
 　

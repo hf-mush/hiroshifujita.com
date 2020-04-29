@@ -8,7 +8,7 @@ API のテストをしようってなった時、同じようなテストや前�
 　
 その時に役立つのが、表題の Postman というやつです。
 　
-<h2>Postman って？</h2>
+## Postman って？
 
 Postman は、Google Chrome で使えるテストツールです。
 　

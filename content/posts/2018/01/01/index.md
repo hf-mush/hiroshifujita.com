@@ -10,7 +10,7 @@ categories: "blog"
 　
 <img src="https://hiroshifujita.com/cms/wp-content/uploads/2018/01/IMG_0062-min-300x225.jpg" alt="" width="300" height="225" class="alignnone size-medium wp-image-214" />
 　
-<h2>どんな一年にしようか</h2>
+## どんな一年にしようか
 
 ２０１８年、オリンピックまであと２年。
 　
@@ -25,7 +25,7 @@ categories: "blog"
 　
 なにはともあれ、心機一転、また大きな飛躍の年となるよう頑張ります。
 　
-<h2>今年もどうぞよろしくお願いします</h2>
+## 今年もどうぞよろしくお願いします
 　
 まずは元旦から書き出し、動き出すことで、良い一年になると信じてます。
 　

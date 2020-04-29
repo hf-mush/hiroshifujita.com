@@ -10,7 +10,7 @@ categories: "blog"
 　
 ※あくまで、個人的な趣味なので、ご了承ください。
 
-<h2>1. グレイテスト・ショーマン</h2>
+## 1. グレイテスト・ショーマン
 
 ヒュー・ジャックマンが主演のミュージカル映画。
 
@@ -26,7 +26,7 @@ CM でご覧になられた方もいるかもしれないですが、音楽が�
 　
 ☆<a href="http://www.foxmovies-jp.com/greatest-showman/" rel="noopener noreferrer" target="_blank">グレイテスト・ショーマン</a>☆
 　
-<h2>2. アベンジャーズ/インフィニティ・ウォー</h2>
+## 2. アベンジャーズ/インフィニティ・ウォー
 
 こちらは、私が大好きなアクション＋ヒーローの作品「アベンジャーズ」の第４弾！
 　
@@ -40,7 +40,7 @@ CM でご覧になられた方もいるかもしれないですが、音楽が�
 　
 ☆<a href="http://marvel.disney.co.jp/movie/avengers-iw.html" rel="noopener noreferrer" target="_blank">アベンジャーズ/インフィニティ・ウォー</a>☆
 　
-<h2>3. パシフィック・リム：アップライジング</h2>
+## 3. パシフィック・リム：アップライジング
 
 こちらはロボット作品のパシフィック・リムの続編。
 　
@@ -59,7 +59,7 @@ CM でご覧になられた方もいるかもしれないですが、音楽が�
 　
 ☆<a href="http://pacificrim.jp/" rel="noopener noreferrer" target="_blank">パシフィック・リム：アップライジング</a>☆
 　
-<h2>4. ジュラシック・ワールド/炎の王国</h2>
+## 4. ジュラシック・ワールド/炎の王国
 
 怪獣っぽい、SF作品が続きます。笑
 　
@@ -73,7 +73,7 @@ CM でご覧になられた方もいるかもしれないですが、音楽が�
 　
 ☆<a href="http://www.jurassicworld.jp/" rel="noopener noreferrer" target="_blank">ジュラシック・ワールド/炎の王国</a>☆
 　
-<h2>5. 不能犯</h2>
+## 5. 不能犯
 
 こちらは邦画の「不能犯」。
 　
@@ -89,7 +89,7 @@ CM でご覧になられた方もいるかもしれないですが、音楽が�
 　
 ☆<a href="http://funohan.jp/" rel="noopener noreferrer" target="_blank">不能犯</a>☆
 　
-<h2>6. トゥームレーダー　ファースト・ミッション</h2>
+## 6. トゥームレーダー　ファースト・ミッション
 
 今までアンジェリーナ・ジョリーが演じてきてトゥームレイダーの新作！
 　
@@ -101,7 +101,7 @@ CM でご覧になられた方もいるかもしれないですが、音楽が�
 　
 ☆<a href="http://wwws.warnerbros.co.jp/tombraider/" rel="noopener noreferrer" target="_blank">トゥームレーダー　ファースト・ミッション</a>☆
 　
-<h2>まだまだ楽しみな映画はたくさん！</h2>
+## まだまだ楽しみな映画はたくさん！
 
 今回、ご紹介させていただいた作品は気になる映画のほんの一部！
 　
