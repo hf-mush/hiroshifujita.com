@@ -26,3 +26,14 @@ categories = ["blog", "page"]
 
 [taxonomies]
   category = "categories"
+
+[related]
+  threshold = 80
+  includeNewer = true
+  toLower = true
+  [[related.indices]]
+    name = "keywords"
+    weight = 20
+  [[related.indices]]
+    name = "date"
+    weight = 30
