@@ -17,8 +17,24 @@
       height: 120px;
       width: 120px;
 
+      .thumbnail__image {
+        height: 76px;
+        width: auto;
+      }
+
       .link {
-        color: transparent;
+        color: rgba(0, 0, 0, 0);
+        display: block;
+        height: 100%;
+        width: 100%;
+
+        &:hover {
+          text-decoration: none;
+        }
+
+        &.noimage {
+          color: #9f9f9f;
+        }
       }
     }
 
