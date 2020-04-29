@@ -14,11 +14,12 @@
     display: flex;
 
     .item__thumbnail {
-      height: 120px;
-      width: 120px;
+      height: 104px;
+      overflow: hidden;
+      width: 104px;
 
       .thumbnail__image {
-        height: 118px;
+        height: 102px;
         width: auto;
       }
 
