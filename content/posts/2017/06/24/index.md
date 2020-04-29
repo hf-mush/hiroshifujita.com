@@ -4,11 +4,11 @@ date: "2017-06-24 15:52:13+09:00"
 draft: false
 categories: "blog"
 ---
-数ヶ月前から気になっていた <strong>“Go言語”</strong> を使って開発を始めようかなと思います。
+数ヶ月前から気になっていた **“Go言語”** を使って開発を始めようかなと思います。
 
 よくある “Hello World” を表示するところまでは作っていたんですが、ちゃんとシステムっぽいものを作りたいので、ディレクトリ構成なども整理しながらやろうと思います。
 
-<h2>環境について</h2>
+## 環境について
 
 わたしのパソコン(Mac)は下記の環境です。
 
@@ -17,7 +17,7 @@ ProductName:	Mac OS X
 ProductVersion:	10.12.5
 BuildVersion:	16F73</code>
 
-<h3>1. Golangをインストール</h3>
+### 1. Golangをインストール
 
 とにもかくにも Golang をインストールしましょう。
 
@@ -25,7 +25,7 @@ BuildVersion:	16F73</code>
 
 ※ <a href="https://brew.sh/index_ja.html" target="_blank" rel="noopener noreferrer">Homebrew</a> は入手しておいてください
 
-<h3>2. Golangのバージョン確認</h3>
+### 2. Golangのバージョン確認
 
 これで go コマンドが使えるようになります。
 
@@ -34,10 +34,10 @@ BuildVersion:	16F73</code>
 <code>$ go version
 go version go1.8.3 darwin/amd64</code>
 
-<h2>次は。。。</h2>
+## 次は。。。
 
 次は作業環境の準備ですが、別記事にします。
 
 　
-<strong>“僕たちは　きっといつか遠く離れた　太陽にすら手が届いて　夜明け前を手に入れて笑おう”</strong>  
+**“僕たちは　きっといつか遠く離れた　太陽にすら手が届いて　夜明け前を手に入れて笑おう”**  
 「ピースサイン」 - 米津玄師

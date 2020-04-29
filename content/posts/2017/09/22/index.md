@@ -12,13 +12,13 @@ categories: "blog"
 
 前回は環境をつくったので、今回は実際のコードを書いて、実行してみるところまでやります。
 
-<h2>プロセスは main パッケージから始まる</h2>
+## プロセスは main パッケージから始まる
 
 Go のプログラムは、main パッケージの main 関数からプロセスが始まります。
 
 main から、いろんなパッケージを読み込んだり、実行したりしていくわけです。
 
-まずは、前回作成した <strong>src/github.com/hf-mush/</strong> 配下に <strong>main.go</strong> を作りましょう。
+まずは、前回作成した **src/github.com/hf-mush/</strong> 配下に <strong>main.go** を作りましょう。
 　
 <pre><code>cd $GOPATH/src/github.com/hf-mush/
 touch main.go</code></pre>
@@ -41,9 +41,9 @@ main.go には何を書くかというと。。。
   fmt.Printf("Start main.go")
 }</code></pre>
 　
-大事な main 関数で、<strong>Start main.go</strong> を出力するようにします。 
+大事な main 関数で、**Start main.go** を出力するようにします。 
 
-<h2>実行バイナリ作成 [ go build ]</h2>
+## 実行バイナリ作成 [ go build ]
 　
 では、バイナリを作成してみましょう。
 　

@@ -12,9 +12,9 @@ categories: "blog"
 
 さて、私が何を読んだかというと、NTT や Microsoft で活躍されて、のちに IT 企業を立ち上げた「中島聡」さんの「エンジニアとしての生き方」。
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=roadofrich-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=4844329944&linkId=1708fb62f19ab780a762ae70d1a4e9c7&bc1=ffffff&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
+{{< iframe "https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=roadofrich-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=4844329944&linkId=1708fb62f19ab780a762ae70d1a4e9c7&bc1=ffffff&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr" >}}
 
-<h2>読んだきっかけ</h2>
+## 読んだきっかけ
 
 転職して約１０ヶ月。
 
@@ -34,7 +34,7 @@ categories: "blog"
 
 ちょっと長くなりましたが、これが読むきっかけだったのです。
 
-<h2>読んでみての感想</h2>
+## 読んでみての感想
 
 率直にいうと、結局のところ、価値ある人間にならないといけないんだなぁと感じました。
 
@@ -68,10 +68,10 @@ IT は本業だからわからなきゃいけない、というかだいたい�
 
 とにかく、人生ずっと勉強なんだなと感じさせてもらえたこの一冊。
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=roadofrich-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=4844329944&linkId=1708fb62f19ab780a762ae70d1a4e9c7&bc1=ffffff&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
+{{< iframe "https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=roadofrich-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=4844329944&linkId=1708fb62f19ab780a762ae70d1a4e9c7&bc1=ffffff&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr" >}}
 
 また時間おいて読みたいです。
 
-<h2>追記</h2>
+## 追記
 
 やっぱり、英語は必要ですね。。。
