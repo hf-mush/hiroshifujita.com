@@ -18,9 +18,9 @@ Go のプログラムは、main パッケージの main 関数からプロセス
 
 main から、いろんなパッケージを読み込んだり、実行したりしていくわけです。
 
-まずは、前回作成した **src/github.com/hf-mush/</strong> 配下に <strong>main.go** を作りましょう。
+まずは、前回作成した **src/github.com/shuufujita/</strong> 配下に <strong>main.go** を作りましょう。
 　
-<pre><code>cd $GOPATH/src/github.com/hf-mush/
+<pre><code>cd $GOPATH/src/github.com/shuufujita/
 touch main.go</code></pre>
 　
 この辺はさくっとできるかと思います。
@@ -47,7 +47,7 @@ main.go には何を書くかというと。。。
 　
 では、バイナリを作成してみましょう。
 　
-<pre><code>go build github.com/hf-mush/project/main.go</code></pre>
+<pre><code>go build github.com/shuufujita/project/main.go</code></pre>
 　
 これで、カレントディレクトリに main ができます。
 　
