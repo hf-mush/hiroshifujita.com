@@ -16,7 +16,7 @@ webp: "/img/20181216-thumbnail.webp"
 
 こういうときにサクッと作れて便利なPythonでツールを作りました。
 
-[https://github.com/hf-mush/SIMPLE_LINE_THEME/blob/develop/script/create_favicon_images.py](https://github.com/hf-mush/SIMPLE_LINE_THEME/blob/develop/script/create_favicon_images.py)
+[create_favicon_image.py](https://github.com/shuufujita/SIMPLE_LINE_THEME/blob/develop/script/create_favicon_images.py)
 
 内容の説明したいんですが、眠いので次回にします。
 

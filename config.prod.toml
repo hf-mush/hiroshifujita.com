@@ -9,13 +9,13 @@ googleAnalytics = "UA-164674809-1"
 categories = ["blog", "page"]
 
 [author]
-  name = "hf-mush"
+  name = "shuufujita"
   mail = "fuchantoshu@gmail.com"
 
 [social]
   facebook = "fujita.hiroshi.82"
   twitter = "shiropiritamma"
-  github = "hf-mush"
+  github = "shuufujita"
 
 [params]
   title = "HIROSHI FUJITA"

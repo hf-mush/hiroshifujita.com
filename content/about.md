@@ -8,7 +8,7 @@ categories: "pages"
 * Name: 藤田 周 [ Hiroshi Fujita ]
 * Facebook: [fujita.hiroshi.82](https://www.facebook.com/fujita.hiroshi.82)
 * Twitter: [@shiropiritamma](https://twitter.com/shiropiritamma)
-* GitHub: [hf-mush](https://github.com/hf-mush)
+* GitHub: [shuufujita](https://github.com/shuufujita)
 * Qiita: [fujitahiroshi](https://qiita.com/fujitahiroshi)
 * RSS: [/index.xml](https://hiroshifujita.com/index.xml)
 
