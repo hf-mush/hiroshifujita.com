@@ -8,13 +8,15 @@ categories: "blog"
 　
 昨日、成人式が行われたところがほとんどなのかな。けっこう、ニュースで取り上げられていました。
 　
-<img src="https://hiroshifujita.com/cms/wp-content/uploads/2018/01/8e7af13d0bc551255e2257e4621a405c_m-min-300x212.jpg" alt="" width="300" height="212" class="alignnone size-medium wp-image-282" />
-　
-今年の新成人は 123 万人で、昨年とほぼ同じとのこと。　＝＞　<a href="http://www.stat.go.jp/data/jinsui/topics/topi1070.htm" rel="noopener noreferrer" target="_blank">統計局</a>
+今年の新成人は 123 万人で、昨年とほぼ同じとのこと。
+
+[統計局](http://www.stat.go.jp/data/jinsui/topics/topi1070.htm)
 　
 2001年には 157 万人でしたが、少子化もあり、徐々に減ってきていますね。
 　
-2006 年には 140 万台、2007 年には 130 万台、そして 2010 年に 120 万台と減少の一途。（<a href="http://www.stat.go.jp/data/jinsui/topics/topi1072.htm" rel="noopener noreferrer" target="_blank">新成人の人口推移</a>）
+2006 年には 140 万台、2007 年には 130 万台、そして 2010 年に 120 万台と減少の一途。
+
+[新成人の人口推移](http://www.stat.go.jp/data/jinsui/topics/topi1072.htm)
 　
 少子化、少子化と言われていて、実際あまり気にしていなかったのですが、こうして数字にすると数十万人単位で減っているんだなぁと実感できます。
 　
@@ -48,13 +50,11 @@ categories: "blog"
 　
 北九州の成人式の様子は、こちらが参考になるかな。
 　
-<a href="https://rocketnews24.com/2018/01/07/1004918/" rel="noopener noreferrer" target="_blank">https://rocketnews24.com/2018/01/07/1004918/</a>
+https://rocketnews24.com/2018/01/07/1004918/
 　
 ## 会場はもう変わっている
 
 さて、北九州の成人式は毎年スペースワールドでした。
-　
-<img src="https://hiroshifujita.com/cms/wp-content/uploads/2018/01/4a86b89983b8e1f2109db79ebd4f0ae4_m-min-300x169.jpg" alt="" width="300" height="169" class="alignnone size-medium wp-image-281" />
 　
 私の時も、スペースワールドで開催されました。
 　

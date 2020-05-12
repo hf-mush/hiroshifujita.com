@@ -63,7 +63,7 @@ HTTP では、「あいうえお」とそのまま通信するので、誰かか
 
 個人のブログで数万円なんて出せません。
 
-そこで出て来たのが <a href="https://letsencrypt.org/" target="_blank" rel="noopener noreferrer">Let's Encrypt!</a> です。
+そこで出て来たのが[Let's Encrypt!](https://letsencrypt.org/)です。
 
 なんか怪しいですが。笑
 

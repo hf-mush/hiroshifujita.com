@@ -8,8 +8,6 @@ categories: "blog"
 　
 ２０１８年を迎え、また新しい一年を全力で駆け抜けましょう！
 　
-<img src="https://hiroshifujita.com/cms/wp-content/uploads/2018/01/IMG_0062-min-300x225.jpg" alt="" width="300" height="225" class="alignnone size-medium wp-image-214" />
-　
 ## どんな一年にしようか
 
 ２０１８年、オリンピックまであと２年。

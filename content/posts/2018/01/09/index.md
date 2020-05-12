@@ -6,8 +6,6 @@ categories: "blog"
 ---
 今年の気になる映画をご紹介します。
 　
-<img src="https://hiroshifujita.com/cms/wp-content/uploads/2018/01/IMG_3678-min-300x225.jpg" alt="" width="300" height="225" class="alignnone size-medium wp-image-302" />
-　
 ※あくまで、個人的な趣味なので、ご了承ください。
 
 ## 1. グレイテスト・ショーマン
@@ -23,8 +21,8 @@ CM でご覧になられた方もいるかもしれないですが、音楽が�
 最後の「Oh！Oh!OhOhOh!(Ban!)」のシーンはキメッキメでかっこいい！
 　
 早く公開してくれーー！！
-　
-☆<a href="http://www.foxmovies-jp.com/greatest-showman/" rel="noopener noreferrer" target="_blank">グレイテスト・ショーマン</a>☆
+
+[グレイテスト・ショーマン](http://www.foxmovies-jp.com/greatest-showman/)
 　
 ## 2. アベンジャーズ/インフィニティ・ウォー
 
@@ -37,8 +35,8 @@ CM でご覧になられた方もいるかもしれないですが、音楽が�
 いかついゴリゴリの悪役が出てきて、力 vs 力のがっぷり四つがみられそう。
 　
 男子なら、必ず見ておきたい作品です！
-　
-☆<a href="http://marvel.disney.co.jp/movie/avengers-iw.html" rel="noopener noreferrer" target="_blank">アベンジャーズ/インフィニティ・ウォー</a>☆
+
+[アベンジャーズ/インフィニティ・ウォー](http://marvel.disney.co.jp/movie/avengers-iw.html)
 　
 ## 3. パシフィック・リム：アップライジング
 
@@ -56,8 +54,8 @@ CM でご覧になられた方もいるかもしれないですが、音楽が�
 （ロボットの設定も影響受けたかは、定かではありませんが。。笑）
 　
 こういった話をきくと、日本の映画作品もすごいんだなぁと改めて感じることができて、なんだか嬉しいですよね。
-　
-☆<a href="http://pacificrim.jp/" rel="noopener noreferrer" target="_blank">パシフィック・リム：アップライジング</a>☆
+
+[パシフィック・リム：アップライジング](http://pacificrim.jp/)
 　
 ## 4. ジュラシック・ワールド/炎の王国
 
@@ -70,8 +68,8 @@ CM でご覧になられた方もいるかもしれないですが、音楽が�
 今回は、前作で放棄された島が噴火寸前ということで、そこから恐竜を保護するか自然にゆだねるか、危険なミッションに主人公たちが挑むスリラー作品。
 　
 前作は、映画.com で 3.8 / 5 の高評価だったので、今回も期待したい！
-　
-☆<a href="http://www.jurassicworld.jp/" rel="noopener noreferrer" target="_blank">ジュラシック・ワールド/炎の王国</a>☆
+
+[ジュラシック・ワールド/炎の王国](http://www.jurassicworld.jp/)
 　
 ## 5. 不能犯
 
@@ -86,8 +84,8 @@ CM でご覧になられた方もいるかもしれないですが、音楽が�
 「おろかだね、人間は」というセリフが登場するように、「人間の脆さと強さ、どちらが本当の姿なのか」を問う、サスペンス・エンターテインメント。
 　
 こういう、デスノートを彷彿とさせるようなサスペンスは大好きですよ！楽しみです！
-　
-☆<a href="http://funohan.jp/" rel="noopener noreferrer" target="_blank">不能犯</a>☆
+
+[不能犯](http://funohan.jp/)
 　
 ## 6. トゥームレーダー　ファースト・ミッション
 
@@ -98,8 +96,8 @@ CM でご覧になられた方もいるかもしれないですが、音楽が�
 今回から主演を務める「アリシア・ヴィキャンデル」が、今までアンジェリーナ・ジョリーが演じてきたララ・クロフトのイメージに負けることない新しいララ・クロフトを見せてくれるか楽しみです。
 　
 キレッキレなアクション、ストーリー、アドベンチャーのワクワク感、楽しみな要素がたっぷり詰まった作品なだけに、公開が待ち遠しい。
-　
-☆<a href="http://wwws.warnerbros.co.jp/tombraider/" rel="noopener noreferrer" target="_blank">トゥームレーダー　ファースト・ミッション</a>☆
+
+[トゥームレーダー　ファースト・ミッション](http://wwws.warnerbros.co.jp/tombraider/)
 　
 ## まだまだ楽しみな映画はたくさん！
 

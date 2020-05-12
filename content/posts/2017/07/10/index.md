@@ -4,9 +4,9 @@ date: "2017-07-10 23:00:43+09:00"
 draft: false
 categories: "blog"
 ---
-「楽々 ERD レッスン」などの著書で知られる<a href="http://amzn.to/2tFOdLL" target="_blank" rel="noopener noreferrer">羽生先生</a>と飲んで語らう機会をいただき、行って来ました。
+「楽々 ERD レッスン」などの著書で知られる[羽生先生](http://amzn.to/2tFOdLL)と飲んで語らう機会をいただき、行って来ました。
 
-<a href="http://habuakihiro.hatenablog.com/" target="_blank" rel="noopener noreferrer">いくつになっても今日が始まり</a>や、<a href="https://www.magicaland.org/" target="_blank" rel="noopener noreferrer">マジカランドへようこそ！</a>などのサイトを運営されており、技術的にもとても造詣がふかく、さらに要件定義や設計にも精通されているプロフェッショナルな方です。
+[いくつになっても今日が始まり](http://habuakihiro.hatenablog.com/)や、[マジカランドへようこそ！](https://www.magicaland.org/)などのサイトを運営されており、技術的にもとても造詣がふかく、さらに要件定義や設計にも精通されているプロフェッショナルな方です。
 
 ３時間弱くらいお話させていただいたのですが、どの話題も知識の深さや経験値が高い。。
 

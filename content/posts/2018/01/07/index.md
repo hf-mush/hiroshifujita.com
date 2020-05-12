@@ -8,7 +8,7 @@ categories: "blog"
 　
 話を戻して、昨日、映画を観てきました。
 　
-「<a href="http://www.foxmovies-jp.com/kingsman/" rel="noopener noreferrer" target="_blank">キングスマン：ゴールデン・サークル</a>」
+「[キングスマン：ゴールデン・サークル](http://www.foxmovies-jp.com/kingsman)」
 　
 今年、一発目の映画館での鑑賞。しかも、IMAX で！
 　

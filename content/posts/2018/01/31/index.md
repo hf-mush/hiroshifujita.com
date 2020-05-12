@@ -12,7 +12,7 @@ categories: "blog"
 
 いろいろ、参考情報をみて、とりあえず対策本を一冊買って、読み込みつつ、他の情報もみていこうという作戦でいきます。  
 
-<a href="https://www.amazon.co.jp/gp/product/486594043X/ref=as_li_ss_il?smid=AN1VRQENFRJN5&psc=1&linkCode=li2&tag=roadofrich-22&linkId=3816fbc9b288f6bff370d688dbe9f704" target="_blank" rel="noopener noreferrer"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=486594043X&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=roadofrich-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=roadofrich-22&l=li2&o=9&a=486594043X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+[](https://www.amazon.co.jp/gp/product/486594043X/ref=as_li_ss_il?smid=AN1VRQENFRJN5&psc=1&linkCode=li2&tag=roadofrich-22&linkId=3816fbc9b288f6bff370d688dbe9f704" target="_blank)<img src="https://ir-jp.amazon-adsystem.com/e/ir?t=roadofrich-22&l=li2&o=9&a=486594043X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 実際のところ、対策本といえるものはこれだけだそうです。  
 
@@ -20,9 +20,9 @@ categories: "blog"
 
 とりあえず、さらっと読むだけでも読んでみようという魂胆です。  
 
-他にも、<a href="https://www.slideshare.net/AmazonWebServicesJapan/aws-black-belt-online-seminar-2017-aws" rel="noopener noreferrer" target="_blank">Black Belt</a> のスライドを見るといいということで、早速みてみる。  
+他にも、[Black Belt](https://www.slideshare.net/AmazonWebServicesJapan/aws-black-belt-online-seminar-2017-aws) のスライドを見るといいということで、早速みてみる。  
 
-あと、<a href="https://aws.amazon.com/jp/whitepapers/" rel="noopener noreferrer" target="_blank">ホワイトペーパー</a>もちらほら名前がでてたけど、多さにびっくり。  
+あと、[ホワイトペーパー](https://aws.amazon.com/jp/whitepapers/)もちらほら名前がでてたけど、多さにびっくり。  
 
 これはベストプラクティス周りを抑えるにとどめておいた方が良さそう。  
 
