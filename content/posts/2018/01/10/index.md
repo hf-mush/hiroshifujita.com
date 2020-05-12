@@ -22,7 +22,7 @@ categories: "blog"
 
 まずは試験概要をダウンロードしました。笑
 　
-<a href="https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/" rel="noopener noreferrer" target="_blank">AWS 認定ソリューションアーキテクト　ー アソシエイト</a>
+[AWS 認定ソリューションアーキテクト　ー アソシエイト](https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/)
 　
 なにごとも小さな一歩から。
 　

@@ -23,7 +23,7 @@ BuildVersion:	16F73</code>
 
 <code>$ brew install go</code>
 
-※ <a href="https://brew.sh/index_ja.html" target="_blank" rel="noopener noreferrer">Homebrew</a> は入手しておいてください
+※ [Homebrew](https://brew.sh/index_ja.html)は入手しておいてください
 
 ### 2. Golangのバージョン確認
 

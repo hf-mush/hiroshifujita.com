@@ -19,9 +19,9 @@ Geolocation API は位置情報をくれる機能として、多くの記事が�
 
 結局の所、下記仕様を参照することに。  
 
-<a href="https://developer.mozilla.org/ja/docs/Web/API/Geolocation/Using_geolocation">https://developer.mozilla.org/ja/docs/Web/API/Geolocation/Using_geolocation</a>
+https://developer.mozilla.org/ja/docs/Web/API/Geolocation/Using_geolocation
 
-<a href="https://www.w3.org/TR/geolocation-API/">https://www.w3.org/TR/geolocation-API/</a>
+https://www.w3.org/TR/geolocation-API/
 
 * Geolocation APIでは、無線LAN・WiFi・携帯電話基地局・GPS・IPアドレスなどから位置情報を取得してくれます
 * 位置情報を取得するにはユーザーの許可が必要

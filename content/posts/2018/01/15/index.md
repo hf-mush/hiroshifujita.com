@@ -14,7 +14,7 @@ categories: "blog"
 　
 その中でも気になったのが、こちらの「シェイプ・オブ・ウォーター」。
 　
-<a href="http://www.foxmovies-jp.com/shapeofwater/" rel="noopener noreferrer" target="_blank">シェイプ・オブ・ウォーター</a>
+[シェイプ・オブ・ウォーター](http://www.foxmovies-jp.com/shapeofwater/)
 　
 普段は、こういう作品は選ばないのですが、年なのか気になってしまうんですよね。愛に飢えているのか。笑
 　
@@ -30,7 +30,7 @@ categories: "blog"
 
 こちらは、今年ベストワンの傑作と言われている「ウィンストン・チャーチル/ヒトラーから世界を救った男」。
 　
-<a href="http://www.churchill-movie.jp/" rel="noopener noreferrer" target="_blank">ウィンストン・チャーチル/ヒトラーから世界を救った男</a>
+[ウィンストン・チャーチル/ヒトラーから世界を救った男](http://www.churchill-movie.jp/)
 　
 名前は聞いたことあるなーという知識しかなくて、ほんと知らないこと多すぎと思うのですが、それでも気になる作品。
 　
@@ -44,7 +44,7 @@ categories: "blog"
 
 こちらは、うってかわって世界が終わる系作品「ジオストーム」。
 　
-<a href="http://wwws.warnerbros.co.jp/geostorm/" rel="noopener noreferrer" target="_blank">ジオストーム</a>
+[ジオストーム](http://wwws.warnerbros.co.jp/geostorm/)
 　
 世界の気象を管理する衛星が暴走して、世界が異常気象に襲われるという災害映画。
 　
@@ -58,7 +58,7 @@ categories: "blog"
 
 こちらは、私も大好きスティーブン・キングさんの小説を映画化した作品「ダークタワー」。
 　
-<a href="http://www.dark-tower.jp/" rel="noopener noreferrer" target="_blank">ダークタワー</a>
+[ダークタワー](http://www.dark-tower.jp/)
 　
 私がスティーブン・キングさんを好きになったきっかけは「セル」という作品を読んでからです。
 　
@@ -78,7 +78,7 @@ categories: "blog"
 
 最後は、私の大好きなメリル・ストリープさん、トムハンクスさんが出演する「ペンタゴン・ペーパーズ 最高機密文書」。
 　
-<a href="http://pentagonpapers-movie.jp/" rel="noopener noreferrer" target="_blank">ペンタゴン・ペーパーズ 最高機密文書</a>
+[ペンタゴン・ペーパーズ 最高機密文書](http://pentagonpapers-movie.jp/)
 　
 こちらはワシントン・ポストの二人のジャーナリストに関する実話を映画化した作品。
 　

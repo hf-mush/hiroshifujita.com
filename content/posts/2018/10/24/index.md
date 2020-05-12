@@ -43,20 +43,23 @@ Swaggerでかけば、yamlでサクッとかけるし、差分管理できるし
 私が使うツールはこちら。  
 
 Swagger Editor  
-<a href="https://editor.swagger.io">https://editor.swagger.io</a>
+
+https://editor.swagger.io
 
 Swaggerファイルの編集するならこれかな。  
 見やすいビュー付きですしね。  
 
 widdershins  
-<a href="https://github.com/Mermade/widdershins">https://github.com/Mermade/widdershins</a>
+
+https://github.com/Mermade/widdershins
 
 yaml -> Markdown への変換ツール。  
 Swagger v3.0.0 で描くときはこちらですね。  
 意外と対応しているツールは少ない。  
 
 swagger2markup  
-<a href="https://github.com/Swagger2Markup/swagger2markup">https://github.com/Swagger2Markup/swagger2markup</a>  
+
+https://github.com/Swagger2Markup/swagger2markup
 
 yaml -> markdown への変換ツール。  
 
