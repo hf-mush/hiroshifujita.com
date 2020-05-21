@@ -17,7 +17,7 @@ webp: "/img/20200520-thumbnail.webp"
 
 どのラケットかっても、失敗はしないでしょう。
 
-https://www.yonex.co.jp/soft_tennis/racquets/series.html
+[YONEX](https://www.yonex.co.jp/soft_tennis/racquets/series.html)
 
 打球感が爽快で扱いやすいラケットが多いですね。
 
@@ -31,7 +31,7 @@ https://www.yonex.co.jp/soft_tennis/racquets/series.html
 
 私も中学後半から高校卒業までお世話になりました。
 
-https://www.mizunoshop.net/nav/%E3%83%86%E3%83%8B%E3%82%B9%EF%BC%8F%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9-%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9%E3%83%A9%E3%82%B1%E3%83%83%E3%83%88
+[Mizuno](https://www.mizunoshop.net/nav/%E3%83%86%E3%83%8B%E3%82%B9%EF%BC%8F%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9-%E3%82%BD%E3%83%95%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9%E3%83%A9%E3%82%B1%E3%83%83%E3%83%88)
 
 ちょっとフレームが固い印象が強く、けっこうスイングスピード・パワーをもっていないと扱いづらいラケットが多いです。
 
@@ -49,7 +49,7 @@ ZZなんてまだ商品ラインナップに名を連ねてますからね。
 
 部員の1人か2人くらいは使っている人がいる、通なGOSEN。
 
-http://www.gosen-sp.jp/products/?sca=1330652655-586017
+[GOSEN](http://www.gosen-sp.jp/products/?sca=1330652655-586017)
 
 最近は見かけないですけどね。
 
