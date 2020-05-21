@@ -1,5 +1,5 @@
 ---
-title: "便利なリモコン"
+title: "ラケットのこと"
 date: "2020-05-20 07:00:00+09:00"
 draft: false
 categories: "blog"
