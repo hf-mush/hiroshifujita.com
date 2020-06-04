@@ -1,5 +1,5 @@
 ---
-title: "内容が薄い"
+title: "ソフトテニスをやってたころ"
 date: "2020-06-05 07:00:00+09:00"
 draft: false
 categories: "blog"
