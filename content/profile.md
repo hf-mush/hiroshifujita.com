@@ -1,6 +1,6 @@
 ---
 title: "Profile"
-date: "2021-03-04T23:00:00+09:00"
+date: "2021-08-17T23:00:00+09:00"
 draft: false
 categories: "pages"
 ---
@@ -9,7 +9,7 @@ categories: "pages"
 
 愛媛大学大学院理工学研究科電子情報工学専攻修士課程修了。ネットワークシミュレーションを用いたAmazon評価ランキングアルゴリズムの研究を実施。
 
-その後、株式会社アステティックスジャパンに入社し、Wordpressを使ったウェブサイト開発、運用管理を担当。現在は、フェンリル株式会社のエンジニア兼プロジェクトリーダーとしてシステム開発、プロジェクト推進を行っている。
+その後、株式会社アステティックスジャパンに入社し、Wordpressを使ったウェブサイト開発、運用管理を担当。現在は、フェンリル株式会社にて、エンジニアとしてシステム開発を経験したのち、プロジェクトリーダーとしてプロジェクト推進を行っている。
 
 ## リンク
 
@@ -30,12 +30,13 @@ categories: "pages"
 
 項目 | 熱量
 --- | ---
-読書 | ★★★
-映画鑑賞 | ★★★
+読書 | ★★★★
+映画鑑賞 | ★★★★
 デッサン,模写 | ★★
 Web開発（フロントエンド,バックエンド,インフラ全般） | ★★★★★
-マネジメント | ★★★
+マネジメント | ★★★★
 ソフトテニス | ★★★★
+スクラム開発 | ★★★
 
 ## 好きな本
 
@@ -44,14 +45,19 @@ Web開発（フロントエンド,バックエンド,インフラ全般） | ★
 
 ## スキル
 
+* **太字項目**: より得意な項目
+
+
 項目 | 説明
 --- | ---
-プログラミング言語 | Go, Python, PHP, Javascript, SQL, HTML, CSS
+プログラミング言語 | **Go**, **PHP**, **Javascript**, **HTML**, **CSS**,  Python, SQL, TypeScript, ShellScript, PowerShell
 OS | Linux, Windows
-フレームワーク | echo, chi, Laravel, BEAR.Sunday, Vue.js, Angular, React, Wordpress
+フレームワーク・ライブラリ | **echo**, **Laravel**, **Angular**, **Wordpress**, chi, BEAR.Sunday, Vue.js, React
 クラウド | AWS, Azure
-ミドルウェア | NGINX, Apache, MySQL, PostgreSQL, mongoDB, Redis
+ミドルウェア | **MySQL**, **Redis**, NGINX, Apache, mongoDB, PostgreSQL
 エディタ | Visual Studio Code, Vim
+DevOps | **Git**, Docker
+業務 | **プロジェクト管理**, **要件定義**, **画面設計**, **API設計**, DB設計, インフラ設計
 
 ## 資格
 
