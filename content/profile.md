@@ -1,6 +1,6 @@
 ---
 title: "Profile"
-date: "2021-09-01T23:00:00+09:00"
+date: "2022-12-11T15:00:00+09:00"
 draft: false
 categories: "pages"
 ---
@@ -15,7 +15,7 @@ categories: "pages"
 
 * Facebook, [fujita.hiroshi.82](https://www.facebook.com/fujita.hiroshi.82)
 * Twitter, [@shiropiritamma](https://twitter.com/shiropiritamma)
-* GitHub, [shuufujita](https://github.com/shuufujita)
+* GitHub, [@hrsfjt](https://github.com/hrsfjt)
 * Qiita, [fujitahiroshi](https://qiita.com/fujitahiroshi)
 * RSS, [/index.xml](https://hiroshifujita.com/index.xml)
 
