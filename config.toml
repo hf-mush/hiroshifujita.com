@@ -5,7 +5,6 @@ hasCJKLanguage=true
 title = "HIROSHI FUJITA"
 paginate=5
 theme = "simple-and-fast"
-googleAnalytics = ""
 categories = ["blog", "page"]
 uglyurls = true
 
@@ -24,6 +23,7 @@ uglyurls = true
   images = ["http://localhost:1313/img/hiroshifujita.jpg"]
   locale = "ja_JP"
   adsense = ""
+  googleAnalytics = ""
 
 [taxonomies]
   category = "categories"
