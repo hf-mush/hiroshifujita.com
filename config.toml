@@ -5,7 +5,6 @@ hasCJKLanguage=true
 title = "HIROSHI FUJITA"
 paginate=5
 theme = "simple-and-fast"
-googleAnalytics = "U-XXXXXX-01"
 categories = ["blog", "page"]
 uglyurls = true
 
@@ -16,14 +15,15 @@ uglyurls = true
 [social]
   facebook = "fujita.hiroshi.82"
   twitter = "shiropiritamma"
-  github = "shuufujita"
+  github = "hrsfjt"
 
 [params]
   title = "HIROSHI FUJITA"
   description = "hiroshifujitaの活動や日々の記録をつづるブログ"
   images = ["http://localhost:1313/img/hiroshifujita.jpg"]
   locale = "ja_JP"
-  adsense = "ca-pub-xxxxxxxxxxxxxxxxxxx"
+  adsense = ""
+  googleAnalytics = ""
 
 [taxonomies]
   category = "categories"
