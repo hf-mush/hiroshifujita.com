@@ -5,25 +5,25 @@ hasCJKLanguage=true
 title = "HIROSHI FUJITA"
 paginate=5
 theme = "simple-and-fast"
-googleAnalytics = "UA-164674809-1"
+googleAnalytics = ""
 categories = ["blog", "page"]
 uglyurls = true
 
 [author]
   name = "hiroshifujita"
-  mail = "fuchantoshu@gmail.com"
+  mail = ""
 
 [social]
   facebook = "fujita.hiroshi.82"
   twitter = "shiropiritamma"
-  github = "shuufujita"
+  github = "hrsfjt"
 
 [params]
   title = "HIROSHI FUJITA"
   description = "hiroshifujitaの活動や日々の記録をつづるブログ"
   images = ["https://hiroshifujita.com/img/hiroshifujita.jpg"]
   locale = "ja_JP"
-  adsense = "ca-pub-4269106456957457"
+  adsense = ""
 
 [taxonomies]
   category = "categories"
