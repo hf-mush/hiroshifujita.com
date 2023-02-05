@@ -18,5 +18,11 @@ resource of https://hiroshifujita.com
 ## Build
 
 ```bash:bash
-hugo --config config.prod.toml --minify -D
+./build.sh
+```
+
+### Convert xxx.jpg to xxx.webp
+
+```bash:bash
+./convert_webp.sh
 ```
