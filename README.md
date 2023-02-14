@@ -26,3 +26,9 @@ resource of https://hiroshifujita.com
 ```bash:bash
 ./convert_webp.sh
 ```
+
+## Deploy
+
+```bash:bash
+BACKET_NAME=xxxxxx ./upload.sh
+```

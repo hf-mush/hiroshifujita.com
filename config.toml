@@ -33,8 +33,11 @@ uglyurls = true
   includeNewer = true
   toLower = true
   [[related.indices]]
+    name = "categories"
+    weight = 60
+  [[related.indices]]
     name = "keywords"
     weight = 20
   [[related.indices]]
     name = "date"
-    weight = 30
+    weight = 10
